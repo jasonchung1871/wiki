@@ -1,7 +1,7 @@
 **We're currently updating our Documentation.**
 
 The CHEFS Form Building interface is based on Form.io's Form Builder.
-For more in-depth documenatation on configuring specific form fields please visit [https://help.form.io/userguide/form-components/](https://help.form.io/userguide/form-components/).
+For more in-depth documenatation on configuring form fields please visit [https://help.form.io/userguide/form-components/](https://help.form.io/userguide/form-components/).
 
 ### Drag and Drop form components onto your form
 
