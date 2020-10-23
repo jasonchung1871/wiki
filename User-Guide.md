@@ -1,3 +1,4 @@
-# CHEFS User Guide
+#### Contents:
 
-- [How to design your form](Form-Designer)
+- [Getting Started](Getting-Started)
+- [How to Build a Form](How-To-Build-A-Form)
