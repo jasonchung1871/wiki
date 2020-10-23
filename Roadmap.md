@@ -40,3 +40,4 @@
 * email notification for state changes
 * authentication with BC Services Card, BCeID
 * offline data capture
+* analysis/BI
