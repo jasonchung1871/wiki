@@ -19,24 +19,24 @@
 * Privacy Risk Assessment (draft)
 * Download form schema in the form designer view  
 * Back, Refresh or Close warning before leaving the page (designer or submission)  
+* export submissions for a form within date range 
+* Home page / landing page content  
 
 **Features planned for MVP v1.0.0:**  
 
-* export submissions for a form within date range  
 * Disclaimer and Statement of Responsibility for Users 
 * email notifications for a submission to the form reviewer
 * email notifications for a submission to the submitter
 * generate pdf of submission  
 * marking forms as deleted  
-* User orientation materials  
-* Home page / landing page content  
-* Form Visibility for select list of Users
+* User orientation/help materials  
+* Form visibility for select list of Users
 * ability to refresh your browser without losing your form design progress
 * ability to save partially completed form submissions  
 * Publish and unpublish a form
 
 **Features planned for post MVP:**  
-* state management for each form submission record  
+* workflow/state management for each form submission record  
 * email notification for state changes
 * authentication with BC Services Card, BCeID
-* Offline data capture
+* offline data capture
