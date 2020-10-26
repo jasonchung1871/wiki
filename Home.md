@@ -2,7 +2,7 @@
 
 The [Common Hosted Form Service](https://github.com/bcgov/common-hosted-form-service) is a web-based application for **designing**, **publishing** and **managing** web forms. 
 
-- Drag and drop form fields into custom layouts. 
+- Drag and drop form fields into custom layouts
 - Manage multiple form versions
 - Export and re-use your form designs
 - Fine-tune who has access to your forms
