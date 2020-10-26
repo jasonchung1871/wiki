@@ -6,13 +6,13 @@ The Common Hosted Form Service (CHEFS) is web-based application for creating web
 
 - A user-friendly form designer interface
 - Form drafts and versioning
-- Custom form components (for example a BC Business name look-up)
+- Custom form components (for example a BC business name look-up)
 - Extensive choice of configurable form fields
 - Custom, responsive form layouts
 - Form design import/export
 - Settings for:
-  - **Authentication **options for accessing your published form.
-  - Form administration **Team Management**
+  - Authentication and access your published form.
+  - Form administration Team Management
   - Role-based access to features
 - Form submission **Export** (CSV and JSON formats)
 
