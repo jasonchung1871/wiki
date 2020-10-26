@@ -21,6 +21,7 @@
 * Back, Refresh or Close warning before leaving the page (designer or submission)  
 * export submissions for a form within date range 
 * Home page / landing page content  
+* ability to refresh your browser without losing your form design progress
 
 **Features planned for MVP v1.0.0:**  
 
@@ -31,11 +32,10 @@
 * marking forms as deleted  
 * User orientation/help materials  
 * Form visibility for select list of Users
-* ability to refresh your browser without losing your form design progress
-* ability to save partially completed form submissions  
 * Publish and unpublish a form
 
 **Features planned for post MVP:**  
+* ability to save partially completed form submissions  
 * workflow/state management for each form submission record  
 * email notification for state changes
 * authentication with BC Services Card, BCeID
