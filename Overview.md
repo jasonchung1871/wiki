@@ -6,7 +6,7 @@ The Common Hosted Form Service (CHEFS) is web-based application for creating web
 
 - A user-friendly form designer interface
 - Form drafts and versioning
-- Custom form components (for example a BC Business name loo-up)
+- Custom form components (for example a BC Business name look-up)
 - Extensive choice of configurable form fields
 - Custom, responsive form layouts
 - Form design import/export
@@ -18,11 +18,11 @@ The Common Hosted Form Service (CHEFS) is web-based application for creating web
 
 **We are working on new features that include:**
 
-- Email notifcations
+- Email notifications
 - Form > PDF conversions
 - Workflow and form status management
 
 Please see the project [Roadmap](Roadmap) for more details.
 
-We hope other teams will want to fork our codebase and contribute with new features.
+We hope other teams will want to fork our code base and contribute with new features.
 For more details of the technology stack used as well as instructions on how to deploy on OpenShift, please see the [ReadMe's](https://github.com/bcgov/common-hosted-form-service/blob/master/README.md).
