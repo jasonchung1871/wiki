@@ -1,6 +1,12 @@
 ## Common Hosted Forms Service (CHEFS)
 
-The [Common Hosted Form Service](https://github.com/bcgov/common-hosted-form-service) is a web-based application for designing, publishing and managing web forms. 
+The [Common Hosted Form Service](https://github.com/bcgov/common-hosted-form-service) is a web-based application for **designing**, **publishing** and **managing** web forms. 
+
+- Drag and drop form fields into custom layouts. 
+- Manage multiple form versions
+- Export and re-use designs
+- Fine-tune who has access to your forms
+- Manage your team’s permissions to view and export form submission data
 
 For help getting started with CHEFS, please contact the Common Services team - **NR.CommonServiceShowcase@gov.bc.ca**.
 
