@@ -4,7 +4,7 @@ The [Common Hosted Form Service](https://github.com/bcgov/common-hosted-form-ser
 
 - Drag and drop form fields into custom layouts. 
 - Manage multiple form versions
-- Export and re-use designs
+- Export and re-use your form designs
 - Fine-tune who has access to your forms
 - Manage your team’s permissions to view and export form submission data
 
