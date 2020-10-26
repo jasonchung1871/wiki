@@ -1,4 +1,4 @@
-## Common Hosted Forms Service (CHEFS)
+## The Common Hosted Forms Service (CHEFS)
 
 The [Common Hosted Form Service](https://github.com/bcgov/common-hosted-form-service) is a web-based application for **designing**, **publishing** and **managing** web forms. 
 
