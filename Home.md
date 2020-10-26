@@ -10,7 +10,7 @@ The [Common Hosted Form Service](https://github.com/bcgov/common-hosted-form-ser
 
 See the [Overview](Overview) page for more details.
 
-For help getting started with CHEFS, please contact the Common Services team - **NR.CommonServiceShowcase@gov.bc.ca**.
+For help getting started with CHEFS, please contact the [Common Services Team](https://bcgov.github.io/common-service-showcase/) - **NR.CommonServiceShowcase@gov.bc.ca**.
 
 
 ***
