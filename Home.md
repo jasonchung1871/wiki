@@ -5,6 +5,8 @@ The [Common Hosted Form Service](https://github.com/bcgov/common-hosted-form-ser
 For help getting started with CHEFS, please contact the Common Services team - **NR.CommonServiceShowcase@gov.bc.ca**.
 
 
+***
+
 **We're currently updating our Documentation.**
 
 The CHEFS Form Builder interface is based on Form.io's Form Builder.
