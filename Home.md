@@ -7,7 +7,8 @@ The [Common Hosted Form Service](https://github.com/bcgov/common-hosted-form-ser
 - Export and re-use designs
 - Fine-tune who has access to your forms
 - Manage your team’s permissions to view and export form submission data
-See [Overview](Overview) for more details
+
+See the [Overview](Overview) page for more details.
 
 For help getting started with CHEFS, please contact the Common Services team - **NR.CommonServiceShowcase@gov.bc.ca**.
 
