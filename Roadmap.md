@@ -51,3 +51,4 @@ Below is a rough outline of the features that we are targetting for CHEFS.
 * [ ] Authentication with BC Services Card, BCeID
 * [ ] Offline data capture
 * [ ] Analysis/BI
+* [ ] Advanced form components, ie Wizard
