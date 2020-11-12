@@ -30,10 +30,10 @@ Below is a rough outline of the features that we are targetting for CHEFS.
 ## v0.2.0 - Beta - Form Editing and Management
 
 * [x] Edit form and save new version
-* [ ] Manage form team members and access
-* [ ] Marking forms as deleted
-* [ ] Email notifications for a submission to the form reviewer
-* [ ] Email notifications for a submission to the submitter
+* [x] Manage form team members and access
+* [x] Marking forms as deleted
+* [x] Email notifications for a submission to the form reviewer
+* [x] Email notifications for a submission to the submitter
 * [ ] Public (anonymous) form submissions
 
 ## v1.0.0 - Release - MVP: Form Drafts and Publishing
