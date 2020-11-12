@@ -34,6 +34,7 @@ Below is a rough outline of the features that we are targetting for CHEFS.
 * [ ] Marking forms as deleted
 * [ ] Email notifications for a submission to the form reviewer
 * [ ] Email notifications for a submission to the submitter
+* [ ] Public (anonymous) form submissions
 
 ## v1.0.0 - Release - MVP: Form Drafts and Publishing
 
