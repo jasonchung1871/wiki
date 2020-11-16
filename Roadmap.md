@@ -47,6 +47,7 @@ Below is a rough outline of the features that we are targetting for CHEFS.
 ## v1.1.0 - Release - Post-MVP
 
 * [ ] Ability to save partially completed form submissions  
+* [ ] Send form data to external API
 * [ ] Workflow/state management for each form submission record  
 * [ ] Email notification for state changes
 * [ ] Authentication with BC Services Card, BCeID
