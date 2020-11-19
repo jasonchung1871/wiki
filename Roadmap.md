@@ -38,11 +38,11 @@ Below is a rough outline of the features that we are targetting for CHEFS.
 
 ## v1.0.0 - Release - MVP: Form Drafts and Publishing
 
-* [ ] Generate pdf of submission
 * [ ] User orientation/help materials
-* [ ] Form visibility for select list of Users
+* [ ] Generate pdf of submission
+* [ ] Attach a document [Authenticated (IDIR) only]
 * [ ] Publish and unpublish a form
-* [ ] Attach a document
+* [ ] OpenAPI and documentation
 
 ## v1.1.0 - Release - Post-MVP
 
