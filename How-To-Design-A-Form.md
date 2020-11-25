@@ -39,7 +39,7 @@ Use the ‘columns’ component to create a layout as you see below
 
 Go to “Data” tab and add a list of values
 
-![Column Layout](images/checkbox_data.png)
+![Checkboxe Group](images/checkbox.png)
 
 Add tooltip to help the user identify or learn more about an element.
 
