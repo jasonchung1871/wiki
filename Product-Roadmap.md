@@ -36,15 +36,18 @@ Below is a rough outline of the features that we are targetting for CHEFS.
 * [x] Email notifications for a submission to the submitter
 * [x] Public (anonymous) form submissions
 
-## v1.0.0 - Release - MVP: Form Drafts and Publishing
+## v1.1.0 - Release - MVP: Form Drafts and Publishing
 
 * [ ] User orientation/help materials
-* [ ] Generate pdf of submission
-* [ ] Attach a document [Authenticated (IDIR) only]
 * [ ] Publish and unpublish a form
 * [ ] OpenAPI and documentation
 
-## v1.1.0 - Release - Post-MVP
+## v1.2.0 - Release - MVP: Print Form and Document Attachment
+
+* [ ] Generate pdf of submission
+* [ ] Attach a document [Authenticated (IDIR) only]
+
+## Release - Post-MVP
 
 * [ ] Ability to save partially completed form submissions  
 * [ ] Send form data to external API
