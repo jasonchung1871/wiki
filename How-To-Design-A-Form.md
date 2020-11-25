@@ -27,12 +27,6 @@ Go to “Data” tab and add the list items as you see below.
 
 ![Select List - placeholders](images/placeholder.png)
 
-## Checkboxes vs. Radio Buttons
-
-Use checkboxes for multiple selections and a radio group to enforce a single selection
-
-![Checkboxes vs. Radio Buttons](images/checkbox_radio.png)
-
 ## Column layout
 
 Use the ‘columns’ component to create a layout as you see below
