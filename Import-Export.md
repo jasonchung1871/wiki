@@ -3,7 +3,7 @@ Tutorials in this section provide examples that can be imported into the form de
 ## Import/Export Tools
 ![](images/import_export_tools.png)
 
-At the top of the form designer ther are tools to help save and manage the form. You may import a form design, or export a design to save on your computer. The file is JSON format.
+At the top of the form designer there are tools to help save and manage the form. You may import a form design, or export a design to save on your computer. The file is JSON format.
 
 ## Import Form
 To import an example form or one of your own exported forms,
