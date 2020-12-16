@@ -3,7 +3,23 @@ This section of the user guide describes how to design the following sample form
 **Sample Form**
 ![Sample Form](images/sample_form.png)  
 
-## Form Structure
+## Form Settings
+
+The Name you provide here will show above the form.
+
+![Form Settings](images/formsetting.png)
+
+## Save your Design
+
+Once you’ve created a form, make sure you save your design. You can edit it anytime you wish. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers
+
+![Save your Design](images/save.png)
+
+To Edit a form, go to the ‘Manage Form’ page and click on ‘Edit Current Design’ link
+
+![Edit a form](images/edit.png)
+
+# Form Structure
 
 A form is made up of form ‘components’ for example input fields, checkboxes or text. Drag and drop the components from the left column onto your form.
 
@@ -14,6 +30,16 @@ A form is made up of form ‘components’ for example input fields, checkboxes 
 When you drag a text field onto the form you will see this dialog screen.
 
 ![Text Field](images/text_field.png)
+
+**Note**: The form builder has specific components for **‘email’**, **‘phone’** or **‘number’** form fields. They look like the standard ‘text’ field, but the validation rules and appearance are slightly different and will help ensure the data you collect is in the right format.
+
+![Custom Text Fields for Phone, Email and more](images/note.png)
+
+## Multi-line text
+
+Use this component when submitters may need to type more than one line of text.
+
+![Multi-line text](images/multi_line.png)
 
 ## Select List
 
@@ -58,16 +84,6 @@ Drag & drop the “Panel” component from the layout, then you will see the fol
 The ‘Static Content’ components  can be used to add headings and other text formats as shown in the sample form
 
 ![Static Content](images/static_content.png)
-
-## Save your Design
-
-Once you’ve created a form, make sure you save your design. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers
-
-![Save your Design](images/save.png)
-
-To Edit a form, go to the ‘Manage Form’ page and click on ‘Edit Current Design’ link
-
-![Edit a form](images/edit.png)
 
 ## Share your form
 
