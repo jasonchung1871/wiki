@@ -9,15 +9,38 @@ The Name you provide here will show above the form.
 
 ![Form Settings](images/formsetting.png)
 
+## Drafts
+
+When you create a form, it will automatically be in a 'Draft' state.
+
+![Drafts](images/draft.png)
+
 ## Save your Design
 
-Once you’ve created a form, make sure you save your design. You can edit it anytime you wish. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers
+Once you’ve created a form, make sure you save your design. You can edit it anytime you wish. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers.
 
 ![Save your Design](images/save.png)
 
-To Edit a form, go to the ‘Manage Form’ page and click on ‘Edit Current Design’ link
+Once you **Save** the form, you will see this alert banner. You can preview or publish the form by clicking the blue text in the banner.
 
-![Edit a form](images/edit.png)
+![Save your Design](images/save_draft.png)
+
+## Publish a Form
+
+To make further edits to your draft, go to the ‘Manage Form’ page and click on the ‘Edit’ icon.
+Once you publish the Current Draft, it will be 'live' and available to the submitters. It is no longer a Draft, it becomes the next version of your form instead.
+
+![Publish a Form](images/publish.png)
+
+## Share your form
+
+You can send the link to anyone you would like to share this form
+
+![Share your form](images/share.png)
+
+![Share your form](images/share_link.png)
+
+***
 
 # Form Structure
 
@@ -84,14 +107,6 @@ Drag & drop the “Panel” component from the layout, then you will see the fol
 The ‘Static Content’ components  can be used to add headings and other text formats as shown in the sample form
 
 ![Static Content](images/static_content.png)
-
-## Share your form
-
-You can send the link to anyone you would like to share this form
-
-![Share your form](images/share.png)
-
-![Share your form](images/share_link.png)
 
 ## BC Gov. Components
 
