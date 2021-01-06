@@ -36,23 +36,20 @@ Below is a rough outline of the features that we are targetting for CHEFS.
 * [x] Email notifications for a submission to the submitter
 * [x] Public (anonymous) form submissions
 
-## v1.0.0 - MVP: Form Drafts and Publishing
+## v1.0.0 - MVP: Publishing, Uploads and Status Management
 
+* [x] Publish and unpublish a form
+* [x] Attach a document [Authenticated (IDIR) only]
+* [ ] Minimal state/status management for each form submission record
+* [ ] Email notification for state changes
 * [ ] User orientation/help materials
-* [ ] Publish and unpublish a form
 * [ ] OpenAPI and documentation
 
-## v1.1.0 - MVP: Print Form and Document Attachment
+## v1.1.0 - Post-MVP: Print Form, External Integrations, Offline Data Capture
 
 * [ ] Generate pdf of submission
-* [ ] Attach a document [Authenticated (IDIR) only]
-
-## Release - Post-MVP
-
 * [ ] Ability to save partially completed form submissions  
 * [ ] Send form data to external API
-* [ ] Workflow/state management for each form submission record  
-* [ ] Email notification for state changes
 * [ ] Authentication with BC Services Card, BCeID
 * [ ] Offline data capture
 * [ ] Analysis/BI
