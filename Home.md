@@ -1,6 +1,6 @@
 ## The Common Hosted Form Service (CHEFS)
 
-The [Common Hosted Form Service](https://chefs.pathfinder.gov.bc.ca/app/) is a web-based application for **designing**, **publishing** and **managing** web forms.
+The [Common Hosted Form Service](https://chefs.nrs.gov.bc.ca/app/) is a web-based application for **designing**, **publishing** and **managing** web forms.
 
 ### Get started
 :page_facing_up: [Getting Started](Getting-Started)

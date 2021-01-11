@@ -3,7 +3,7 @@ You can show or hide components based on choices a user makes while filling out 
 Use the simple settings, or create advanced JavaScript logic.
 
 > Try a working example<br>
-> [View example](https://chefs.pathfinder.gov.bc.ca/app/form/submit?f=9bc36ebf-c6c3-4f5a-9a8d-ea9e8acb0ded)
+> [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=9bc36ebf-c6c3-4f5a-9a8d-ea9e8acb0ded)
 
 > Download this example file and [import](Import-Export) it into your design<br>
 > [example_conditional_logic_schema.json](examples/example_conditional_logic_schema.json)
