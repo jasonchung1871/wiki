@@ -1,4 +1,4 @@
-Below is a rough outline of the features that we are targetting for CHEFS.
+Below is a rough outline of the features that we are targeting for CHEFS.
 
 ## v0.0.1 - Alpha - Initial Proof of Concept
 
