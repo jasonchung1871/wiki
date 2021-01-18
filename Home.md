@@ -3,8 +3,9 @@
 The [Common Hosted Form Service](https://chefs.nrs.gov.bc.ca/app/) is a web-based application for **designing**, **publishing** and **managing** web forms.
 
 ### Get started
-:page_facing_up: [Getting Started](Getting-Started)
-:page_facing_up: [Quick Start Guide](Quick-Start-Guide) 
+:page_facing_up: [Getting Started](Getting-Started)<br />
+:page_facing_up: [Quick Start Guide](Quick-Start-Guide)<br /> 
+:page_facing_up: [Tutorials](Tutorials) 
 
 ### Features
 - Drag and drop form fields into custom layouts
