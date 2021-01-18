@@ -16,7 +16,7 @@ Drag and drop a `Select List` component into the designer and add some values on
 ![](images/conditional_select_list.png) 
 
 ## Multi-line Text
-Drag and drop a `Multi-line Text` component into the designer and go to the `Conditional` tab select the following options:
+Drag and drop a `Multi-line Text` component into the designer and go to the `Conditional` tab to select the following options:
 
 ![Enter True, the select list, and "other".](images/conditional_multi_line.png) 
 
