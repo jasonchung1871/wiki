@@ -1,7 +1,7 @@
 Go to the Team Management page to configure role-based access for your team.
 
 ## Add New Team Member
-Team members must log-in to the system before they can be added. Once they are added you can add or remove roles.
+New team members must log-in to the system (via the 'log in' button) before they can be added or have their roles updated by an existing team member. Once the new member has logged in an existing team member can assign them roles on the Team Management page.
 
 ## Roles
 There are 5 roles available in the system.
