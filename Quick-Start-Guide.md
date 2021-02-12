@@ -20,7 +20,7 @@ Once you **Save** the form, you will see this alert banner. You can preview or p
 
 ![Save your Design](images/save_draft.png)
 
-## Publish a Form
+## Managing Versions
 
 You can create a new version of your form design, using an existing version as a starting point. You do this by clicking on the plus icon next to an existing version. A new version will be in a 'draft' state until you set it as 'published' using the toggle in the table of versions.
 You can only have one draft version, but you can delete that to re-start a new one if required.
