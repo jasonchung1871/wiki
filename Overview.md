@@ -5,7 +5,7 @@ The Common Hosted Form Service (CHEFS) is Web-based application for creating Web
 #### Features include:
 
 - A user-friendly **Form Designer** interface
-- **Form Drafts** and **Versioning**
+- **Form Versioning**
 - Custom form components (for example a BC business name look-up)
 - Extensive choice of configurable form fields
 - Custom, **Responsive form layouts**
