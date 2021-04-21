@@ -38,7 +38,7 @@ Below is a rough outline of the features that we are targeting for CHEFS.
 
 * [x] Publish and unpublish a form
 * [x] Attach a document [Authenticated (IDIR) only]
-* [ ] Minimal state/status management for each form submission record
+* [x] Minimal state/status management for each form submission record
 * [x] Email notification for state changes
 * [x] User orientation/help materials
 * [x] OpenAPI and documentation
