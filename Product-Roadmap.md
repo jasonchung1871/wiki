@@ -45,10 +45,14 @@ Below is a rough outline of the features that we are targeting for CHEFS.
 
 ## v1.1.0 - Post-MVP: Print Form, External Integrations, Offline Data Capture
 
-* [ ] Generate pdf of submission
-* [ ] Ability to save partially completed form submissions  
-* [ ] Send form data to external API
-* [ ] Authentication with BC Services Card, BCeID
-* [ ] Offline data capture
+* [ ] Advanced form components, ie Wizard, Map
+* [ ] Generate pdf/xls/doc of submission and reports
+* [ ] Create and edit draft submissions
+* [ ] Authentication with BCeID
+
+## v1.2.0 - Post-MVP
+
 * [ ] Analysis/BI
-* [ ] Advanced form components, ie Wizard
+* [ ] Send form data to external API
+* [ ] Authentication with BC Services Card
+* [ ] Offline data capture
