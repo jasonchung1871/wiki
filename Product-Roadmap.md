@@ -50,7 +50,7 @@ Below is a rough outline of the features that we are targeting for CHEFS.
 * [ ] Create and edit draft submissions
 * [ ] Authentication with BCeID
 
-## v1.2.0 - Post-MVP
+## v1.2.0 - Continuous Improvement
 
 * [ ] Analysis/BI
 * [ ] Enable Form Wizard builder
