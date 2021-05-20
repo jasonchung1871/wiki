@@ -8,10 +8,10 @@ There are 5 roles available in the system. A form must have at least 1 owner at 
 
 | Role          | Permissions                                       |
 | ------------- | ------------------------------------------------- |
-| Owner         | Can administer the form and manage form settings   |
+| Owner         | Can do all of the below, adjust form settings, and delete the form   |
 | Team Manager  | Can add and remove team members, and assign roles |
 | Form Designer | Can edit the form design and save new versions    |
-| Reviewer      | Can view and download form submissions            |
+| Reviewer      | Can review (and export), manage (status updates, and notes), and edit form submissions            |
 | Submitter     | Can submit a team-protected form                  |
 
 
