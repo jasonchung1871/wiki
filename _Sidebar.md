@@ -6,7 +6,7 @@
 - [User Guide](User-Guide)
   - [Getting Started](Getting-Started)
   - [Quick Start Guide](Quick-Start-Guide)
-  - [Roles and Permissions](Roles-and-Permissions)
+  - [Team Management](Team-Management)
   - [Simple/Advanced Modes](Simple-and-Advanced-Modes)
 - [Tutorials](Tutorials)
   - [Import/Export](Import-Export)
