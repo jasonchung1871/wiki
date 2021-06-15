@@ -48,6 +48,12 @@ A form is made up of form ‘components’ for example input fields, checkboxes 
 
 ![Form Structure](images/form_structure.png)
 
+# Basic / Advanced Components
+
+Advanced components have more configuration options (for example: advanced conditional logic). It will help to have some experience with javascript and programming when using advanced components.
+
+![Form Structure](images/basic_advanced.png)
+
 ## Text Field
 
 When you drag a text field onto the form you will see this dialog screen.
