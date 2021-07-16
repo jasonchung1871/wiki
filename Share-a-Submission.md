@@ -7,7 +7,7 @@ To enable shared submissions, the form owner must select the check box for “En
 
 ## How it works for the Submitter
 
-The person filling in the form can invite team members to edit the form when it is a draft mode. Once the form is submitted, they cannot edit anymore.
+The person filling in the form can invite team members to edit the form when it is a draft. Once the form is submitted, they cannot edit anymore.
 They invite your team members by clicking the icon “Manage Team Members”. You can invite or manage team members.
 
 ![Add Team Member to your Submission](images/sub-group_manage.png)

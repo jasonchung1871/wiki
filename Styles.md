@@ -7,13 +7,13 @@ Create visually pleasing designs with built-in formatting styles using our versi
 > [example_styles_schema.json](examples/example_styles_schema.json)
 
 ## Components
-[Bootstrap Components](https://getbootstrap.com/docs/4.5/components/) can be added using the `Layout > HTML Element` in Advanced Mode. Copy and paste components from the examples on the Bootstrap site. There are also a few samples implemented here in the working example.
+[Bootstrap Components](https://getbootstrap.com/docs/4.5/components/) can be added using the `Layout > HTML Element` in Advanced Fields. Copy and paste components from the examples on the Bootstrap site. There are also a few samples implemented here in the working example.
 
 You can either paste examples directly into the `content` field or into the `HTML Tag` and `CSS Class` fields like this:
 
 ![HTML Tag: div, CSS Class: alert alert-primary](images/bs_alert_example.png)
 
-You'll find some components built into simple and advanced modes like `Panel` and `Well`. Other options are also available in components like adding prefix and suffix to input groups.
+You'll find some components built into simple and advanced fields like `Panel` and `Well`. Other options are also available in components like adding prefix and suffix to input groups.
 
 ## Utilities
 Experiment with [Bootstrap Utilities](https://getbootstrap.com/docs/4.0/utilities/) to add custom styles to your form.
@@ -21,7 +21,7 @@ Experiment with [Bootstrap Utilities](https://getbootstrap.com/docs/4.0/utilitie
 ![Custom CSS Class: border border-danger rounded](images/bs_utilities.png)
 
 ## Columns
-Use [Bootstrap Grids](https://getbootstrap.com/docs/4.0/layout/grid/) to customize columns. A form is 12 columns wide, divide it up any way you like (6x2, 4x3, 10+2, etc). There are some pre-set column widths in Simple Mode. In Advanced Mode, here's an example of 4 columns of width 3 (4 X 3 = 12):
+Use [Bootstrap Grids](https://getbootstrap.com/docs/4.0/layout/grid/) to customize columns. A form is 12 columns wide, divide it up any way you like (6x2, 4x3, 10+2, etc). There are some pre-set column widths in Simple Fields. In Advanced Fields, here's an example of 4 columns of width 3 (4 X 3 = 12):
 
 ![Settings for 4 columns of width 3](images/bs_columns.png)
 

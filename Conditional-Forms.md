@@ -1,6 +1,6 @@
 You can show or hide components based on choices a user makes while filling out a form. 
 
-Use the simple settings, or create advanced JavaScript logic.
+Use the simple fields, or create advanced JavaScript logic.
 
 > Try a working example<br>
 > [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=9bc36ebf-c6c3-4f5a-9a8d-ea9e8acb0ded)
@@ -8,7 +8,7 @@ Use the simple settings, or create advanced JavaScript logic.
 > Download this example file and [import](Import-Export) it into your design<br>
 > [example_conditional_logic_schema.json](examples/example_conditional_logic_schema.json)
 
-# Simple Mode
+# Simple Fields
 
 ## Select List
 Drag and drop a `Select List` component into the designer and add some values on the `Data` tab. Ensure one has the value "other".
@@ -30,7 +30,7 @@ Save and view the form. When you choose "other" from the select list, the "Other
 
 Conditional logic **does not work** in the form designer view, you must save the form and view it.
 
-# Advanced Mode
+# Advanced Fields
 
 ## JavaScript
 Use JavaScript on the Conditional tab on advanced form components to show or hide elements. This image shows some logic to show or hide a component from choices made in 2 other form fields.

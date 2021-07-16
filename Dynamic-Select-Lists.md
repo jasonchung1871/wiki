@@ -10,7 +10,7 @@ Change content of select list drop-downs with some advanced settings. For instan
 ![](images/dynamic_example.png)
 
 # Select Lists
-[Switch modes](Simple-and-Advanced-Modes) to Advanced Mode for this tutorial.
+Use Advanced Fields for this tutorial.
 
 ## JSON data for colour type
 This example uses sample colour JSON data stored in an initial select list. A user's selection then passes information along to subsequent form fields. 

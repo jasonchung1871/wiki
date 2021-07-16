@@ -1,6 +1,6 @@
 You can create fields which will populate based on a calculated value using values from other fields on the form. 
 
-Use the advanced mode of the control you wish to populate with a calculated value.
+Use the advanced field of the control you wish to populate with a calculated value.
 
 > Try a working example<br>
 > [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=858a4aba-7e7b-4019-80c1-78a414ee5129)
