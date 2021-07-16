@@ -15,7 +15,7 @@ To designate which data values for a selection should be used for calculated val
 This is availiable in both basic and advanced controls.
 
 ## Select List Example
-Drag and drop a `Select List` component into the designer and add some values on the `Data` tab. Ensure one has the value "other".
+Drag and drop a `Select List` component into the designer and add some values on the `Data` tab. The label can be what you want the user to see, and the value can be what you would like to be accessible to calculate from in other fields.
 
 ![](images/conditional_select_list.png) 
 
