@@ -43,17 +43,21 @@ Below is a rough outline of the features that we are targeting for CHEFS.
 * [x] User orientation/help materials
 * [x] OpenAPI and documentation
 
-## v1.1.0 - Post-MVP: Print Form, External Integrations, Offline Data Capture
+## v1.1.0 - Drafts, Invitations, and Edit support
 
-* [ ] Advanced form components, ie Map
+* [x] Create, draft and edit submissions
+* [x] Invite collaborators to edit draft submissions
+
+## v1.2.0 - Integrations
+
+* [ ] Send form data to external API
 * [ ] Generate pdf/xls/doc of submission and reports
-* [ ] Create and edit draft submissions
+* [ ] Advanced form components, ie Map
 * [ ] Authentication with BCeID
 
-## v1.2.0 - Continuous Improvement
+## v1.3.0 - Continuous Improvement
 
-* [ ] Analysis/BI
 * [ ] Enable Form Wizard builder
-* [ ] Send form data to external API
+* [ ] Analysis/BI
 * [ ] Authentication with BC Services Card
 * [ ] Offline data capture
