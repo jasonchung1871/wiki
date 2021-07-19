@@ -50,9 +50,9 @@ Below is a rough outline of the features that we are targeting for CHEFS.
 
 ## v1.2.0 - Integrations
 
-* [ ] Send form data to external API
+* [ ] Access form data from external web application
 * [ ] Generate pdf/xls/doc of submission and reports
-* [ ] Advanced form components, ie Map
+* [ ] Custom spatial form component
 * [ ] Authentication with BCeID
 
 ## v1.3.0 - Continuous Improvement
