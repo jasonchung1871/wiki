@@ -1,6 +1,7 @@
 Connect an API that returns JSON to make requests and use that Data inside of your CHEFS Form. This will require some knowledge in JavaScript.
 
 ## Components
+
 When building your own Form, you can make requests to your API with any Advanced Fields Components.
 
 - Simply drag your Advanced Field Component to your form
