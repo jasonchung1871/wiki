@@ -14,7 +14,7 @@ Please note to never keep your API Keys in an unsecure area.
 
 ## How to make a call to the CHEFS API
 
-You can make calls to our [endpoints](https://chefs.nrs.gov.bc.ca/app/api/v1/docs) by using [Basic Authorization](https://datatracker.ietf.org/doc/html/rfc7617#section-2). 
+You can make calls to our [endpoints](https://chefs.nrs.gov.bc.ca/app/api/v1/docs) by using [Basic Authorization](https://datatracker.ietf.org/doc/html/rfc7617#section-2).
 
 >If you require more information about how to use Basic Authorization, follow this link: https://datatracker.ietf.org/doc/html/rfc7617#section-2
 
