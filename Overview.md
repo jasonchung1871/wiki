@@ -1,6 +1,6 @@
 ## What is CHEFS?
 
-The Common Hosted Form Service (CHEFS) is Web-based application for creating Web forms.
+The Common Hosted Form Service (CHEFS) is Web-based application for creating Web forms and managing the data you collect.
 
 #### Features include:
 
@@ -11,11 +11,13 @@ The Common Hosted Form Service (CHEFS) is Web-based application for creating Web
 - Custom, **Responsive form layouts**
 - Form design **import/export**
 - Settings for:
-  - **Authentication** and access your published form.
+  - **Authentication** and access to your published form.
   - Form administration **Team Management**
   - Role-based access to features
+  - Email **Notifications**
 - Form submission **Export** (CSV and JSON formats)
-- Email **Notifications**
+- Secure API for accessing your data from other systems
+- Downloading your submissions using a PDF template
 
 **We are working on new features**
 
