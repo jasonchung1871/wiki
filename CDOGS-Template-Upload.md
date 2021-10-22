@@ -12,6 +12,7 @@ A common example of when this would be useful, is to be able to have a submissio
 You can provide CHEFS a template file that holds variables that let you plug in your User's Submission Data.
 
 You can use any of the following files types:
+
 - .txt
 - .docx
 - .html
