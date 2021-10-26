@@ -45,18 +45,33 @@ Below is a rough outline of the features that we are targeting for CHEFS.
 
 ## v1.1.0 - Drafts, Invitations, and Edit support
 
-* [x] Create, draft and edit submissions
-* [x] Invite collaborators to edit draft submissions
+User Improvements
+
+* [x] Create and edit draft submissions
+* [x] Invite colleagues to draft submissions
+
+Staff Improvements
+
+* [x] Enhance state management and note support
+* [x] Form Designer UI unification
+* [x] Add submission edit support
+* [x] Add soft delete submission support
+* [x] CSV export format updates
+
+Other Improvements
+
+* [x] Update to formiojs 4.13
+* [x] Convert application to JSON logging
 
 ## v1.2.0 - Integrations
 
-* [ ] Access form data from external web application
-* [ ] Generate pdf/xls/doc of submission and reports
-* [ ] Custom spatial form component
-* [ ] Authentication with BCeID
+* [x] Access form data from external web application
+* [x] Generate pdf/xls/doc of submission and reports
+* [x] Authentication with BCeID
 
 ## v1.3.0 - Continuous Improvement
 
+* [ ] Custom spatial form component
 * [ ] Enable Form Wizard builder
 * [ ] Analysis/BI
 * [ ] Authentication with BC Services Card
