@@ -8,3 +8,4 @@
 * [Connecting to API](Connect-API)
 * [Generating API Keys](Generating-API-Keys)
 * [CDOGS Template Upload](CDOGS-Template-Upload)
+* [Repeating Data Grid](Repeating-Data-Grid)

@@ -1,0 +1,33 @@
+You can create multiple rows of data in order to create a set of Data points.
+
+Use the Data Grid Component in the Form Builder to start creating new rows.
+
+> Try a working example:<br>
+> [View simple example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=c07fb298-afce-41c5-8f53-8bb838546347)<br>
+> [View advanced example](https://chefs-test.apps.silver.devops.gov.bc.ca/app/form/submit?f=baee224e-7adb-42d1-bb23-418107dafaf3)
+
+> You can also download the example files and [import](Import-Export) it into your design<br>
+> Simple: [simple-data-grid.json](examples/simple-data-grid.json)<br>
+> Advanced: [advanced-data-grid.json](examples/advanced-data-grid.json)
+
+# Data Grids
+
+Drag and drop a `Data Grid` Component into the designer.
+
+![](images/data-grid-drag.png)
+
+Add other components into the Data Grid's columns to populate the rows of the Data Grid.
+
+![](images/data-grid-columns.png)
+
+Once you have populated all of the columns that you want for this Data Grid, you can save your form to test it out. You will simply be able to click the `+ Add Another` when filling out the form.
+
+![](images/data-grid-add.png)
+
+## Tips
+
+If you require a high amount of columns on your Data Grid, we suggest that you break up your columns into multiple Data Grid Categories.
+
+Example:
+
+![](images/data-grid-categories.png)
