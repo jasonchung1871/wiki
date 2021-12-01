@@ -26,8 +26,7 @@ Once you have populated all of the columns that you want for this Data Grid, you
 
 ## Tips
 
-If you require a high amount of columns on your Data Grid, we suggest that you break up your columns into multiple Data Grid Categories.
+If you require a high volume of columns in your Data Grid, we suggest that you organize your Components within your Data Grid by inserting additional Columns to organize all of the Data.
 
-Example:
-
-![](images/data-grid-categories.png)
+> You can also download an example file and [import](Import-Export) it into your design to test out columns in the Data Grid<br>
+> Example: [advanced-data-grid.json](examples/advanced-data-grid.json)
