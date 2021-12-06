@@ -69,7 +69,11 @@ Other Improvements
 * [x] Generate pdf/xls/doc of submission and reports
 * [x] Authentication with BCeID
 
-## v1.3.0 - Continuous Improvement
+## v1.3.0 - Return to User workflow
+
+* [x] Return submission to submitter for edits
+
+## v1.4.0 - Continuous Improvement
 
 * [ ] Custom spatial form component
 * [ ] Enable Form Wizard builder
