@@ -1,4 +1,4 @@
-You can give your form fields a more advanced default value, including details about the currently logged in user.
+You can give your form fields a more advanced default value, including details about the currently logged in user. Custom Default Values are only available on `Advanced Fields`.
 
 Example user field:
 ```javascript
