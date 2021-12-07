@@ -1,1 +1,3 @@
 You can give your form fields a more advanced default value, including details about the currently logged in user.
+
+![](images/custom_default_email_field.png)
