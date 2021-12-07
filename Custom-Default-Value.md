@@ -1,8 +1,16 @@
 You can give your form fields a more advanced default value, including details about the currently logged in user. Custom Default Values are only available on `Advanced Fields`.
 
 Example user field:
-```javascript
-{"username":"naomiaro","firstName":"Naomi","lastName":"Aro","fullName":"Naomi Aro","email":"naomi.aro@gov.bc.ca","idp":"idir","public":false}
+```json
+{
+  "username": "naomiaro",
+  "firstName": "Naomi",
+  "lastName": "Aro",
+  "fullName": "Naomi Aro",
+  "email": "naomi.aro@gov.bc.ca",
+  "idp": "idir",
+  "public": false
+}
 ```
 
 # Getting the Current User's Email
