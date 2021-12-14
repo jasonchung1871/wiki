@@ -1,5 +1,7 @@
 Below is a rough outline of the features that we are targeting for CHEFS.
 
+[Post your ideas, leave a comment or vote on what CHEFS features we should build next ](https://chefs-fider.apps.silver.devops.gov.bc.ca/)
+
 ## v0.0.1 - Alpha - Initial Proof of Concept
 
 * [x] View list of forms you have some access on  
