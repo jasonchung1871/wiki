@@ -18,6 +18,8 @@ The [Common Hosted Form Service](https://chefs.nrs.gov.bc.ca/app/) is a web-base
 
 See the [Overview](Overview) page for more details.
 
+[Post your ideas, leave a comment or vote on what CHEFS features we should build next.](https://chefs-fider.apps.silver.devops.gov.bc.ca/)
+
 ## Contacts
 
 CHEFS is developed by the [Common Services Team](https://bcgov.github.io/common-service-showcase/).  
