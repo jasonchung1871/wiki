@@ -71,9 +71,12 @@ Other Improvements
 * [x] Generate pdf/xls/doc of submission and reports
 * [x] Authentication with BCeID
 
-## v1.3.0 - Return to User workflow
+## v1.3.0 - Return to User
 
+* [x] Update default print header to always show BCGov logo
 * [x] Return submission to submitter for edits
+* [x] Update dependencies and infrastructure to Node 16 LTS
+* [x] Expose JWT Token data to Formio components
 
 ## v1.4.0 - Continuous Improvement
 
