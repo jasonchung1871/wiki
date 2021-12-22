@@ -12,6 +12,7 @@
   - [Team Management](Team-Management)
   - [Multiple People working on a single Submission](Share-a-Submission)
 - [Tutorials](Tutorials)
+  - [Browser Printing](Browser-Print)
   - [Custom Default Value](Custom-Default-Value)
   - [Calculated Values](Calculated-Values)
   - [Conditional Forms](Conditional-Forms)
