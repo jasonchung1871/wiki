@@ -8,6 +8,7 @@
   - [Getting Started](Getting-Started)
   - [Quick Start Guide](Quick-Start-Guide)
   - [Form Access](Form-Access)
+  - [Workflows & Statuses](Workflows-&-Statuses)
   - [File Uploads](File-Uploads)
   - [Team Management](Team-Management)
   - [Multiple People working on a single Submission](Share-a-Submission)
