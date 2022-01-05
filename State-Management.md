@@ -5,6 +5,7 @@ This page outlines the general submission state workflow that the CHEFS applicat
 ## Table of Contents
 
 - [State Diagram](#state-diagram)
+- [Permissions](#permissions)
 - [Statuses](#statuses)
   - [Draft](#draft)
   - [Submitted](#submitted)
