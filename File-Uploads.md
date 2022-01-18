@@ -2,6 +2,7 @@ The CHEFS form builder has a 'File Upload' component. This allows someone to att
 
 ![File Upload Component](images/file-upload-1.png)
 
+> **Note**: The max file size for File Uploads are 1GB.
 ### Configuration options
 
 - Multiple files
@@ -13,4 +14,4 @@ This is for security reasons. We’re looking into ways we can allow file upload
 
 ## File Storage
 
-Files uploaded via a CHEFS form are saved to a designated space in **NRS Object storage** The Object Storage Service is for Ministry and Greater Public Sector clients to store data as objects using standard protocols including S3, NFS, and HTTP. It provides a scalable, secure, fully managed object storage platform with high availability and enterprise features.
+Files uploaded via a CHEFS form are saved to a designated space in **NRS Object storage**. The Object Storage Service is for Ministry and Greater Public Sector clients to store data as objects using standard protocols including S3, NFS, and HTTP. It provides a scalable, secure, fully managed object storage platform with high availability and enterprise features.
