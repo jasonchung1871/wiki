@@ -80,6 +80,13 @@ Other Improvements
 
 ## v1.4.0 - Continuous Improvement
 
+* [ ] Improved documentation and tutorials
+* [ ] Submitters can download multiple submissions at once
+* [ ] Form Administrators are notified on status updates on forms
+* [ ] Submitters are notified on completion
+
+## vx.x - Potential Future Plans
+
 * [ ] Custom spatial form component
 * [ ] Enable Form Wizard builder
 * [ ] Analysis/BI
