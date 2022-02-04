@@ -9,13 +9,13 @@ A CHEFS form can be configured with the following with 'Form Access' under ‘Fo
 ![Form Access settings](images/form-access.png)
 
 <ul>
-<li>**Public (anonymous)**: The form can be accessed and submitted by anyone. No login is required.
+<li><strong>Public (anonymous):</strong> The form can be accessed and submitted by anyone. No login is required.
 Use this option if you intend to use CHEFS as a survey tool and require answers to be anonymous.
 </li>
-<li>**Log-in Required**:
+<li><strong>Log-in Required:</strong>
 <ul>
-<li>**IDIR**: To view or submit the form, the user must log in using their B.C. Government IDIR login credentials</li>
-<li>**Basic BCeID**: The person submitting the form must log in using a BCeID username and password. If they don’t have a Basic BCeID, they can register for one via a hyperlink on the CHEFS login page. Once a user is registered, they will automatically return to the CHEFS form – it only takes a few minutes to register. Please remember to [Notify IDIM team about your CHEFS form](#Notify-IDIM-team-about-your-CHEFS-form) if you plan to use BCeID
+<li><strong>IDIR:</strong> To view or submit the form, the user must log in using their B.C. Government IDIR login credentials</li>
+<li><strong>Basic BCeID:</strong> The person submitting the form must log in using a BCeID username and password. If they don’t have a Basic BCeID, they can register for one via a hyperlink on the CHEFS login page. Once a user is registered, they will automatically return to the CHEFS form – it only takes a few minutes to register. Please remember to [Notify IDIM team about your CHEFS form](#Notify-IDIM-team-about-your-CHEFS-form) if you plan to use BCeID
 
 <p>If the submitter has to log in to CHEFS to submit the form, CHEFS can link the form submission to a user account and include more features. <p>
 <p>Requiring a user to log in will give them more options, such as:
