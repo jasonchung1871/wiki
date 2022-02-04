@@ -9,6 +9,7 @@ Learn how to assign roles to users [[Link to information on assigning roles]]
 To create a notification when a user submits a form:
 
 1. On the "Manage" icon for the form you want to edit
+![Click on Manage to open the form settings dashboard](images/manage-form.png)
 
 1. In the "Form Settings" drop-down, click on the pencil/edit icon [[Insert image of icon]]
 1. Navigate to the "After Submission" section and click on the "Send my team a notification email" check box
