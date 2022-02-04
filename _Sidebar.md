@@ -10,7 +10,6 @@
   - [Quick Start Guide](Quick-Start-Guide)
   - [Workflows & Statuses](Workflows-&-Statuses)
   - [File Uploads](File-Uploads)
-  - [Multiple People working on a single Submission](Share-a-Submission)
 - [Tutorials](Tutorials)
   - [Browser Printing](Browser-Print)
   - [Custom Default Value](Custom-Default-Value)
@@ -25,6 +24,6 @@
   - [CDOGS Template Upload](CDOGS-Template-Upload)
   - [Repeating Data Grid](Repeating-Data-Grid)
 - [Permissions](CHEFS-permissions)
-  - [Admin Team Management](Admin-Team-Management)
   - [Accessing forms](Accessing-forms)
-
+  - [Admin Team Management](Admin-Team-Management)
+  - [Sharing a submission](Sharing-a-submission)
