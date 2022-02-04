@@ -1,12 +1,12 @@
 You can add team members to administer your form or review submissions. 
 
 On this page:
-* Add a new team member
-* Roles
+* [Add a new team member](#add-a-new-team-member)
+* [Roles](#roles)
 
 Go to the Team Management page to configure role-based access for your team.
 
-## Add New Team Member
+## Add new team member
 ![](images/team_mgmt.png) 
 Click the `Add a team member` icon, then search for the user by IDIR or name. Note that team members must have logged in to CHEFS at least once before they can be added to your team.
 
