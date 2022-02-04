@@ -2,14 +2,14 @@ This feature allows a group of people to fill in a submission.
 
 **On this page:**
 * [Enable submission sharing in the form settings](#Enable-submission-sharing-in-the-form-settings)
-* How it works for the submitter
+* [How to share a submission](#How-to-share-a-submission)
 
 ## Enable submission sharing in the form settings
 To enable shared submissions, the form owner must select the check box for "Enable submitters of this form to Save and Edit Draft submissions" in the form's settings.
 
 ![Enable Submission Sharing in the Form Settings](images/sub-group_settings.png)
 
-## How it works for the submitter
+## How to share a submission
 
 The person filling in the form can invite team members to edit it when it is a draft. They invite your team members by clicking the "Manage Team Members" icon.
 
