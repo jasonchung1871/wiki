@@ -26,13 +26,12 @@ Use this option if you intend to use CHEFS as a survey tool and require answers 
 </ul></p>
 <p>Requiring a log-in also secures access to your form if it is only intended for a limited audience.</p>
 </li>
+<li><strong>Specific Team Members:</strong> This option allows you to limit access to your form to a smaller group of users that you invite through the *Team Management* section of the Admin panel.</li>
 </ul>
 
-- **Specific Team Members**: This option allows you to limit access to your form to a smaller group of users that you invite through the *Team Management* section of the Admin panel.
+**Note:** Access to the admin panel is restricted to users who have an IDIR. See the [Admin team management](Admin team management) section of the user guide for more details.
 
-Note: Access to the Admin panel is restricted to users who have an IDIR. See the [Admin team management](Admin team management) section of the user guide for more details.
-
-### Please notify the IDIM team if you are using BCeID
+## Please notify the IDIM team if you are using BCeID
 
 If you decide to use the **'Log-in Required - Basic BCeID'** setting for your form access, you must notify the Identity Information Management (IDIM) team by email (IDIM.Consulting@gov.bc.ca). They need to know which applications are using the BCeID service and allocate appropriate resources. You should provide them the following in your notification:
 
