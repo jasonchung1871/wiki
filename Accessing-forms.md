@@ -1,6 +1,6 @@
 On this page:
-* Form access types
-* Notify the IDIM team if you are using BCeID
+* [Form access types](#form-access-types)
+* [Notify the IDIM team if you are using BCeID](#Notify-the-idim-team-if-you-are-using-bceid)
 
 ## Form Access Types
 
@@ -41,4 +41,4 @@ If you decide to use the **'Log-in Required - Basic BCeID'** setting for your fo
 
 There are a few steps that IDIM will follow up and work with you on including a self-assessment and a signed Service Agreement.
  
-* [You can read more about BCeID](https://www.bceid.ca/)
+* [Learn more about BCeID](https://www.bceid.ca/)
