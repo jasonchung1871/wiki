@@ -31,14 +31,14 @@ Use this option if you intend to use CHEFS as a survey tool and require answers 
 
 **Note:** Access to the admin panel is restricted to users who have an IDIR. See the [Admin team management](Admin team management) section of the user guide for more details.
 
-## Please notify the IDIM team if you are using BCeID
+## Notify the IDIM team if you are using BCeID
 
 If you decide to use the **'Log-in Required - Basic BCeID'** setting for your form access, you must notify the Identity Information Management (IDIM) team by email (IDIM.Consulting@gov.bc.ca). They need to know which applications are using the BCeID service and allocate appropriate resources. You should provide them the following in your notification:
 
-- Program area or initiative that owns the CHEFS form
-- Contact Email address
-- Estimate of how many submissions the form may receive per year
+* Program area or initiative that owns the CHEFS form
+* Contact Email address
+* Estimate of how many submissions the form may receive per year
 
 There are a few steps that IDIM will follow up and work with you on including a self-assessment and a signed Service Agreement.
  
-You can read more about BCeID [here](https://www.bceid.ca/).
+[You can read more about BCeID](https://www.bceid.ca/).
