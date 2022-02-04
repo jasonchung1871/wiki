@@ -41,4 +41,4 @@ If you decide to use the **'Log-in Required - Basic BCeID'** setting for your fo
 
 There are a few steps that IDIM will follow up and work with you on including a self-assessment and a signed Service Agreement.
  
-[You can read more about BCeID](https://www.bceid.ca/).
+* [You can read more about BCeID](https://www.bceid.ca/)
