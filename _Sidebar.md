@@ -25,5 +25,5 @@
   - [Repeating Data Grid](Repeating-Data-Grid)
 - [Permissions](CHEFS-permissions)
   - [Accessing forms](Accessing-forms)
-  - [Admin Team Management](Admin-Team-Management)
+  - [Managing admin teams](Managing-admin-teams)
   - [Sharing a submission](Sharing-a-submission)
