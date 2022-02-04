@@ -1,6 +1,6 @@
 You can add team members to administer your form or review submissions. 
 
-On this page:
+**On this page:**
 * [Add a new team member](#add-a-new-team-member)
 * [Roles](#roles)
 
