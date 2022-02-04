@@ -8,7 +8,6 @@
 - [User Guide](User-Guide)
   - [Getting Started](Getting-Started)
   - [Quick Start Guide](Quick-Start-Guide)
-  - [Form Access](Form-Access)
   - [Workflows & Statuses](Workflows-&-Statuses)
   - [File Uploads](File-Uploads)
   - [Multiple People working on a single Submission](Share-a-Submission)
@@ -27,4 +26,5 @@
   - [Repeating Data Grid](Repeating-Data-Grid)
 - [Permissions](CHEFS-permissions)
   - [Admin Team Management](Admin-Team-Management)
+  - [Accessing-forms](Accessing-forms)
 
