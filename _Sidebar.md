@@ -11,7 +11,6 @@
   - [Form Access](Form-Access)
   - [Workflows & Statuses](Workflows-&-Statuses)
   - [File Uploads](File-Uploads)
-  - [Team Management](Team-Management)
   - [Multiple People working on a single Submission](Share-a-Submission)
 - [Tutorials](Tutorials)
   - [Browser Printing](Browser-Print)
@@ -26,3 +25,6 @@
   - [Generating API Keys](Generating-API-Keys)
   - [CDOGS Template Upload](CDOGS-Template-Upload)
   - [Repeating Data Grid](Repeating-Data-Grid)
+- [Permissions](CHEFS-permissions)
+  - [Admin Team Management](Admin-Team-Management)
+
