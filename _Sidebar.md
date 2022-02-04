@@ -23,7 +23,7 @@
   - [Generating API Keys](Generating-API-Keys)
   - [CDOGS Template Upload](CDOGS-Template-Upload)
   - [Repeating Data Grid](Repeating-Data-Grid)
-- [Permissions](CHEFS-permissions)
+- [CHEFS Permissions](CHEFS-permissions)
   - [Accessing forms](Accessing-forms)
   - [Managing admin teams](Managing-admin-teams)
   - [Sharing a submission](Sharing-a-submission)
