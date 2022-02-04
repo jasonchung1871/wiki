@@ -13,8 +13,7 @@ Use this option if you intend to use CHEFS as a survey tool and require answers 
 - **Log-in Required**:
   - **IDIR**: To view or submit the form, the user must log in using their B.C. Government IDIR login credentials
   - **Basic BCeID**: The person submitting the form must log in using a BCeID username and password. If they don’t have a Basic BCeID, they can register for one via a hyperlink on the CHEFS login page. Once a user is registered, they will automatically return to the CHEFS form – it only takes a few minutes to register. Please remember to [Notify IDIM team about your CHEFS form](#Notify-IDIM-team-about-your-CHEFS-form) if you plan to use BCeID
-
-> If the submitter has to log in to CHEFS to submit the form, CHEFS can link the form submission to a user account and include more features. 
+If the submitter has to log in to CHEFS to submit the form, CHEFS can link the form submission to a user account and include more features. 
 Requiring a user to log in will give them more options, such as:
 * The submitter can save a draft of their submission, continue editing a draft and submit it later
 * Viewing their previous submissions of a form
