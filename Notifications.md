@@ -1,8 +1,12 @@
+On this page:
+* [Enabling email notifications](#enabling-email-notifications)
+* [Sending form submissions to an email](#Sending-form-submissions to an email)
+
 ## Sending form submission to an email
 
 Any user with the role of "Form Owner" or "Reviewer" can receive an email when a user submits a form.
 
-Learn how to assign roles to users [[Link to information on assigning roles]]
+* [Learn how to assign roles to users](Managing-admin-teams)
 
 ## Enabling email notifications
 
