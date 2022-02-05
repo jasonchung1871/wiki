@@ -15,6 +15,6 @@ To create a notification when a user submits a form:
 <li>In the "Form Settings" drop-down, click on the pencil/edit icon
 <img src="images/notifications-form-edit.png" alt="Edit your form settings"></li>
 <li>Navigate to the "After Submission" section and click on the "Send my team a notification email" check box</li>
-<li>In the text field below the checkbox, you can place the email of any user(s) you want to receive a notification when there is a submission</br>
+<li>In the text field below the checkbox, you can place the email of any user(s) you want to receive a notification when there is a submission<br>
 <img src="images/notifications-after-submission.png" width="300" height="212" alt="Add team members to the notification list"></li>
 </ol>
