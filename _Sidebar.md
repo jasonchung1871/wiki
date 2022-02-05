@@ -23,6 +23,7 @@
   - [Generating API Keys](Generating-API-Keys)
   - [CDOGS Template Upload](CDOGS-Template-Upload)
   - [Repeating Data Grid](Repeating-Data-Grid)
+- [Notifications](Notifications)
 - [Form Permissions](Form-permissions)
   - [Accessing forms](Accessing-forms)
   - [Managing admin teams](Managing-admin-teams)
