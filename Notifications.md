@@ -10,7 +10,7 @@ To create a notification when a user submits a form:
 
 <ol>
 <li>On the "Manage" icon for the form you want to edit
-<img src="images/manage-form.png" a;t="Click on Manage to open the form settings dashboard"></li>
+<img src="images/manage-form.png" alt="Click on Manage to open the form settings dashboard"></li>
 
 <li>In the "Form Settings" drop-down, click on the pencil/edit icon
 <img src="images/notifications-form-edit.png" alt="Edit your form settings"></li>
