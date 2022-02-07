@@ -24,7 +24,7 @@
   - [CDOGS Template Upload](CDOGS-Template-Upload)
   - [Repeating Data Grid](Repeating-Data-Grid)
 - [Accessing and managing data](Accessing-and-managing-data)
-  - [Connecting to API](Connect-API)
+  - [Connecting to API](Connecting-to-the-CHEFS-API)
 - [Notifications](Notifications)
 - [Form Permissions](Form-permissions)
   - [Accessing forms](Accessing-forms)
