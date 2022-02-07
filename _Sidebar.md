@@ -7,7 +7,6 @@
   - [Privacy and data collection](Privacy-and-data-collection)
   - [Product Roadmap](Product-Roadmap)
 - [Creating forms](Creating-forms)
-  - [Getting Started](Getting-Started)
   - [Quick Start Guide](Quick-Start-Guide)
   - [Workflows & Statuses](Workflows-&-Statuses)
   - [File Uploads](File-Uploads)
