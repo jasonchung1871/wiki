@@ -24,6 +24,7 @@
 - [Accessing and managing data](Accessing-and-managing-data)
   - [Connecting to CHEFS API](Connecting-to-the-CHEFS-API)
   - [Generating API keys](Generating-API-Keys)
+  - [Importing data into CHEFS](importing-data-into-chefs)
 - [Notifications](Notifications)
 - [Form Permissions](Form-permissions)
   - [Accessing forms](Accessing-forms)
