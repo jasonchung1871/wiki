@@ -1,6 +1,6 @@
 **On this page:**
 * [Printing](#Printing)
-* [Printing to a template](#Printing-to-at-template)
+* [Printing to a template](#Printing-to-a-template)
 * [Saving to a PDF](#Saving-to-a-PDF)
 
 ## Printing
