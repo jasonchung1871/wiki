@@ -4,13 +4,8 @@ Use the advanced field of the control you wish to populate with a calculated val
 
 **On the page:**
 * [Data](#data)
-* [Calculated values](#Calculated-values) 
-
-> Try a working example<br>
-> [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=858a4aba-7e7b-4019-80c1-78a414ee5129)
-
-> Download this example file and [import](Import-Export) it into your design<br>
-> [example_calculated_values_schema.json](examples/example_calculated_values_schema.json)
+* [Calculated Values](#Calculated-values) 
+* [Examples](#examples)
 
 ## Data
 
@@ -23,7 +18,7 @@ Drag and drop a `Select List` component into the designer and add some values on
 
 ![](images/conditional_select_list.png) 
 
-## Calculated Value
+## Calculated Values
 
 ### JavaScript
 On the field you wish to display the calculated value, navigate to the `Data` tab.
@@ -41,3 +36,10 @@ You can use this section to create complex calculated values using JavaScript, b
 If you need to know the field name for a field you wish to base a calculated value on, look at the API tab and the Property Name box for the name.
 
 ![](images/conditional_property_name.png)
+
+## Examples
+> Try a working example<br>
+> [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=858a4aba-7e7b-4019-80c1-78a414ee5129)
+
+> Download this example file and [import](Import-Export) it into your design<br>
+> [example_calculated_values_schema.json](examples/example_calculated_values_schema.json)
