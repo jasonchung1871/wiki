@@ -8,7 +8,7 @@
   - [Product Roadmap](Product-Roadmap)
 - [Creating forms](Creating-forms)
   - [Quick Start Guide](Quick-Start-Guide)
-  - [Browser Printing](Browser-Print)
+  - [Printing from a browser](Printing-from-a-browser)
   - [Workflows & Statuses](Workflows-&-Statuses)
   - [File Uploads](File-Uploads)
 - [Tutorials](Tutorials)
