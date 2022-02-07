@@ -6,7 +6,7 @@
     - [State Management](State-Management)
   - [Privacy and data collection](Privacy-and-data-collection)
   - [Product Roadmap](Product-Roadmap)
-- [User Guide](User-Guide)
+- [Creating forms](Creating-forms)
   - [Getting Started](Getting-Started)
   - [Quick Start Guide](Quick-Start-Guide)
   - [Workflows & Statuses](Workflows-&-Statuses)
