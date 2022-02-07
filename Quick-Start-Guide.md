@@ -1,45 +1,31 @@
-This section of the user guide describes how to design the following sample form.
+Follow this guide if you want to get up learn how to quickly get started building forms.
+![Sample Form](images/sample_form.png) 
 
-**Sample Form**
-![Sample Form](images/sample_form.png)  
+**On this page:**
+* [Form settings](#form-settings)
+* [Form structure](#form-structure)
+* [Basic and advanced components](#Basic-and-advanced-components)
+* [Text field](#Text-field)
+* [Select list](#Select-list)
+* [Column layout](#Column-layout)
+* [Checkbox group](#Checkbox-group)
+* [Panel layout](#Panel-layout)
+* [Static content](#static-content)
+* [B.C. Government components](#B.C.-Government-components)
+* [Save your design](#Save-your-design)
+* [Managing versions](#Managing-versions)
+* [Share your form](#Share-your-form)
 
-## Form Settings
+## Form settings
 
-The Name you provide here will show above the form.
+The name you provide here will show above the form.
 
 ![Form Settings](images/formsetting.png)
 
 
-## Save your Design
+## Form structure
 
-Once you’ve created a form, make sure you save your design. You can edit it anytime you wish. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers.
-
-![Save your Design](images/save.png)
-
-Once you **Save** the form, you will see this alert banner. You can preview or publish the form by clicking the blue text in the banner.
-
-![Save your Design](images/save_draft.png)
-
-## Managing Versions
-
-You can create a new version of your form design, using an existing version as a starting point. You do this by clicking on the plus icon next to an existing version. A new version will be in a 'draft' state until you set it as 'published' using the toggle in the table of versions.
-You can only have one draft version, but you can delete that to re-start a new one if required.
-
-![Publish a Form](images/publish.png)
-
-## Share your form
-
-You can send the link to anyone you would like to share this form
-
-![Share your form](images/share.png)
-
-![Share your form](images/share_link.png)
-
-***
-
-# Form Structure
-
-A form is made up of form ‘components’ for example input fields, checkboxes or text. Drag and drop the components from the left column onto your form.
+A form is made up of form ‘components’ for example input fields, checkboxes or text. You can drag and drop these components from the left column onto your form.
 
 ![Form Structure](images/form_structure.png)
 
@@ -114,3 +100,30 @@ The ‘Static Content’ components  can be used to add headings and other text 
 ‘Business Name Search’ component will show a search field that lets the user select from a database of organizations legally registered in BC.
 
 ![BC Gov. Component](images/bc_gov_component.png)
+
+
+
+## Save your Design
+
+Once you’ve created a form, make sure you save your design. You can edit it anytime you wish. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers.
+
+![Save your Design](images/save.png)
+
+Once you **Save** the form, you will see this alert banner. You can preview or publish the form by clicking the blue text in the banner.
+
+![Save your Design](images/save_draft.png)
+
+## Managing Versions
+
+You can create a new version of your form design, using an existing version as a starting point. You do this by clicking on the plus icon next to an existing version. A new version will be in a 'draft' state until you set it as 'published' using the toggle in the table of versions.
+You can only have one draft version, but you can delete that to re-start a new one if required.
+
+![Publish a Form](images/publish.png)
+
+## Share your form
+
+You can send the link to anyone you would like to share this form
+
+![Share your form](images/share.png)
+
+![Share your form](images/share_link.png)
