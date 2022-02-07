@@ -1,7 +1,11 @@
 Change content of select list drop-downs with some advanced settings. For instance, the make and model of a car, or in this case information selecting primary or secondary colours.
 
 **On this page:**
-* 
+* [JSON data for colour type](#JSON-data-for-colour-type)
+* [Dynamic list for colour choice](#Dynamic-list-for-colour-choice)
+* [Display colour information](#Display-colour-information)
+* [Conditional logic](#Conditional-logic)
+* [Examples](#examples)
 
 ![](images/dynamic_example.png)
 
