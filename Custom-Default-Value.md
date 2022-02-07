@@ -1,19 +1,13 @@
-You can give your form fields a more advanced default value, including details about the currently logged in user. Custom Default Values are only available on `Advanced Fields`.
+You can give your form fields a custom default value, including details about the currently logged in user. 
 
-Example user field:
-```json
-{
-  "username": "naomiaro",
-  "firstName": "Naomi",
-  "lastName": "Aro",
-  "fullName": "Naomi Aro",
-  "email": "naomi.aro@gov.bc.ca",
-  "idp": "idir",
-  "public": false
-}
-```
+Custom Default Values are only available on Advanced Fields.
 
-# Getting the Current User's Email
+On this page:
+* [Getting the current user's email](#Getting-the-current-user's-email)
+* [Tips](#Tips)
+* [Examples](#Examples)
+
+## Getting the Current User's Email
 
 To setup a form field which will default to the currently logged in user's email address, start by dragging over a new `Advanced Fields > @ Email` form field
 
@@ -27,15 +21,15 @@ and then save your email component progress.
 
 ![](images/custom_default_javascript.png)
 
-To make sure all custom defaults are loaded properly you can open your form preview, or refresh your form designer page.
+To make sure all custom defaults are loaded properly you can open your form preview or refresh your form designer page.
 
-## Form Preview
+### Form Preview
 ![](images/custom_default_form_design.png)
 
-## Form Designer
+### Form Designer
 ![](images/custom_default_form_preview.png)
 
-# Tips
+## Tips
 
 For further insight into what is available from the variables in the table - an easy way is by entering
 
@@ -43,3 +37,17 @@ For further insight into what is available from the variables in the table - an 
 value = JSON.stringify(token);
 ```
 
+## Examples
+
+Example user field:
+```json
+{
+  "username": "naomiaro",
+  "firstName": "Naomi",
+  "lastName": "Aro",
+  "fullName": "Naomi Aro",
+  "email": "naomi.aro@gov.bc.ca",
+  "idp": "idir",
+  "public": false
+}
+```
