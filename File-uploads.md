@@ -2,7 +2,7 @@ The CHEFS form builder has a 'File Upload' component. This allows someone to att
 
 On this page:
 * [Configuration options](#Configuration-options)
-* [File Storage](#File Storage)
+* [File Storage](#File-storage)
 
 ![File Upload Component](images/file-upload-1.png)
 
