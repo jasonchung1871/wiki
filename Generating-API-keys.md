@@ -1,7 +1,7 @@
 Connect your 3rd party applications with CHEFS to give it access to any of your form's data through our [documented CHEFS API specifications](https://chefs.nrs.gov.bc.ca/app/api/v1/docs).
 
 **On this page:**
-* [How to generate/regenerate an API key](#how-to-generate/regenerate-an-api-key)
+* [How to generate and regenerate an API key](#how-to-generate-and-regenerate-an-api-key)
 * [How to make a call to the CHEFS API](#How-to-make-a-call-to-the-CHEFS-API)
 
 
