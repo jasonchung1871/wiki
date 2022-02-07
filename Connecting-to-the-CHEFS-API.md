@@ -13,7 +13,6 @@ When building your own form, you can make requests to your API with any "Advance
 ![HTML Tag: div, CSS Class: alert alert-primary](images/config_modal.png)
 
 - Under the JavaScript panel, enter the following JavaScript template code to begin making a request to your API
-
 ![HTML Tag: div, CSS Class: alert alert-primary](images/javascript_panel.png)
 
 ```javascript
