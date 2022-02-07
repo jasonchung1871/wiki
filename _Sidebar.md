@@ -4,6 +4,7 @@
 - [Overview](Overview)
   - [Architecture](Architecture)
     - [State Management](State-Management)
+  - [Privacy and data collection](Privacy-and-data-collection)
   - [Product Roadmap](Product-Roadmap)
 - [User Guide](User-Guide)
   - [Getting Started](Getting-Started)
