@@ -1,11 +1,7 @@
-Change content of select list drop-downs with some advanced settings. For instance the make and model of a car, or in this case information from primary or secondary colours.
+Change content of select list drop-downs with some advanced settings. For instance, the make and model of a car, or in this case information selecting primary or secondary colours.
 
-
-> Try a working example<br>
-> [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=4ee726e0-f7a7-49a1-8454-7325d2593a7d)
-
-> Download this example file and [import](Import-Export) it into your design<br>
-> [example__dynamic_select_lists_schema.json](examples/example__dynamic_select_lists_schema.json)
+**On this page:**
+* 
 
 ![](images/dynamic_example.png)
 
@@ -22,7 +18,7 @@ Enter JSON data on the Data tab for the first select list.
 * If done correctly, the preview window will show the JSON data in the select list drop-down.
 
 ## Dynamic list for colour choice
-With the first select list working, you can now start on the dynamic list. Choosing `primary` or `secondary` from the first select list will send all colours of that type to the second select list.
+With the first select list working, you can now start on the dynamic list. Choosing primary or secondary from the first select list will send all colours of that type to the second select list.
 
 * Data > Data Source Type: Custom 
 * Data > Custom Values: `values = (JSON.parse(JSON.stringify(data.colourType.colours)));`<br>Because we are using JSON data, the object needs to be put into a string and then parsed.
@@ -41,3 +37,10 @@ Use JavaScript to format data, for example the rgba array can be joined with com
 
 ## Conditional logic
 Show and hide form fields with [conditional logic](Conditional-Forms).
+
+## Examples
+> Try a working example<br>
+> [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=4ee726e0-f7a7-49a1-8454-7325d2593a7d)
+
+> Download this example file and [import](Import-Export) it into your design<br>
+> [example__dynamic_select_lists_schema.json](examples/example__dynamic_select_lists_schema.json)
