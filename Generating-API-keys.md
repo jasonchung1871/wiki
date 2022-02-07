@@ -5,7 +5,7 @@ Connect your 3rd party applications with CHEFS to give it access to any of your 
 * [How to make a call to the CHEFS API](#How-to-make-a-call-to-the-CHEFS-API)
 
 
-## How to generate/regenerate an API key
+## How to generate and regenerate an API key
 
 You can generate an API key by going to your "Form Settings" and opening the `API Key` Panel. If you want to generate a new API key, click the `Generate API Key` button bellow and confirm your selection. You can only perform this on programmatic level.
 
