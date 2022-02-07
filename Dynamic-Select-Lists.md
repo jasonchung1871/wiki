@@ -1,18 +1,15 @@
 Change content of select list drop-downs with some advanced settings. For instance, the make and model of a car, or in this case information selecting primary or secondary colours.
 
 **On this page:**
-* [JSON data for colour type](#JSON-data-for-colour-type)
-* [Dynamic list for colour choice](#Dynamic-list-for-colour-choice)
-* [Display colour information](#Display-colour-information)
-* [Conditional logic](#Conditional-logic)
+* [Advance select list configurations](#Advance-select-list-configurations)
 * [Examples](#examples)
 
 ![](images/dynamic_example.png)
 
-# Select Lists
+## Advance select list configurations
 Use Advanced Fields for this tutorial.
 
-## JSON data for colour type
+### JSON data for colour type
 This example uses sample colour JSON data stored in an initial select list. A user's selection then passes information along to subsequent form fields. 
 
 Enter JSON data on the Data tab for the first select list. 
@@ -21,7 +18,7 @@ Enter JSON data on the Data tab for the first select list.
 * API > Property Name: `colourType`
 * If done correctly, the preview window will show the JSON data in the select list drop-down.
 
-## Dynamic list for colour choice
+### Dynamic list for colour choice
 With the first select list working, you can now start on the dynamic list. Choosing primary or secondary from the first select list will send all colours of that type to the second select list.
 
 * Data > Data Source Type: Custom 
@@ -29,7 +26,7 @@ With the first select list working, you can now start on the dynamic list. Choos
 * API > Property Name: `colourChoice`
 * The form must be saved and previewed to see the dynamic list work.
 
-## Display colour information
+### Display colour information
 Now that someone filling out the form has selected a colour, we can display the colour's information from the same JSON data.
 
 * Create a new Text Field
@@ -39,7 +36,7 @@ Now that someone filling out the form has selected a colour, we can display the 
 Use JavaScript to format data, for example the rgba array can be joined with commas:
 * Data > Calculated Value: `value = data.colourChoice.code.rgba.join() || "undefined";`
 
-## Conditional logic
+### Conditional logic
 Show and hide form fields with [conditional logic](Conditional-Forms).
 
 ## Examples
