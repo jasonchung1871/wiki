@@ -23,7 +23,7 @@
   - [Repeating Data Grid](Repeating-Data-Grid)
 - [Accessing and managing data](Accessing-and-managing-data)
   - [Connecting to CHEFS API](Connecting-to-the-CHEFS-API)
-  - [Generating API Keys](Generating-API-Keys)
+  - [Generating API keys](Generating-API-Keys)
 - [Notifications](Notifications)
 - [Form Permissions](Form-permissions)
   - [Accessing forms](Accessing-forms)
