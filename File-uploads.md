@@ -1,9 +1,13 @@
-The CHEFS form builder has a 'File Upload' component. This allows someone to attach files or documents  when submitting the form.
+The CHEFS form builder has a 'File Upload' component. This allows someone to attach files or documents when submitting the form.
+
+On this page:
+* [Configuration options](#Configuration-options)
+* [File Storage](#File Storage)
 
 ![File Upload Component](images/file-upload-1.png)
 
 > **Note**: The max file size for File Uploads are 1GB.
-### Configuration options
+## Configuration options
 
 - Multiple files
 - Add a label describing the Type of file you want people to upload (eg: 'resume' or 'cover letter')
