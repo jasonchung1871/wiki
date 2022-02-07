@@ -4,7 +4,7 @@
 - [Overview](Overview)
   - [Architecture](Architecture)
     - [State Management](State-Management)
-- [Product Roadmap](Product-Roadmap)
+  - [Product Roadmap](Product-Roadmap)
 - [User Guide](User-Guide)
   - [Getting Started](Getting-Started)
   - [Quick Start Guide](Quick-Start-Guide)
