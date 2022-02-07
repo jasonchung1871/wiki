@@ -6,7 +6,8 @@ On this page:
 
 ![File Upload Component](images/file-upload-1.png)
 
-> **Note**: The max file size for File Uploads are 1GB.
+> **Note**: The max size per file for upload is 25MB.
+
 ## Configuration options
 
 - Multiple files
