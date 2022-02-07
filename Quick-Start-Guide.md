@@ -25,17 +25,17 @@ The name you provide here will show above the form.
 
 ## Form structure
 
-A form is made up of form ‘components’ for example input fields, checkboxes or text. You can drag and drop these components from the left column onto your form.
+A form is made up of ‘components.’ For example: input fields, checkboxes or text boxes. You can drag and drop these components from the left column onto your form.
 
 ![Form Structure](images/form_structure.png)
 
-# Basic / Advanced Components
+# Basic and advanced components
 
-Advanced components have more configuration options (for example: advanced conditional logic). It will help to have some experience with javascript and programming when using advanced components.
+Advanced components have more configuration options that the basic fields (for example: advanced conditional logic). Having JavaScript and programming experience when using advanced components.
 
 ![Form Structure](images/basic_advanced.png)
 
-## Text Field
+## Text field
 
 When you drag a text field onto the form you will see this dialog screen.
 
@@ -51,7 +51,7 @@ Use this component when submitters may need to type more than one line of text.
 
 ![Multi-line text](images/multi_line.png)
 
-## Select List
+## Select list
 
 When you want to create a list of items from the dropdown and let users select as you see below.
 
@@ -65,23 +65,24 @@ Go to “Data” tab and add the list items as you see below.
 
 ## Column layout
 
-Use the ‘columns’ component to create a layout as you see below
+Use the ‘columns’ component to create a 2, 3 or 4 column layouts. 
 
 ![Column Layout - drag and drop](images/column_drag_drop.png)
 
 ![Column Layout](images/column_label.png)
 
-## Checkbox Group
+## Checkbox group
 
 Go to “Data” tab and add a list of values
 
 ![Checkboxe Group](images/checkbox.png)
 
-Add tooltip to help the user identify or learn more about an element.
+Add tooltip to help the user identify or learn more about an element. Tooltips will appear as question mark at the end of a field’s labels.
 
 ![Tooltips](images/tooltip.png)
 
 ## Panel layout
+Panels allow you to create groupings of form fields.
 
 Drag & drop the “Panel” component from the layout, then you will see the following dialog.
 
@@ -89,27 +90,25 @@ Drag & drop the “Panel” component from the layout, then you will see the fol
 
 ![Panel Layouts](images/panel_layout.png)
 
-## Static Content
+## Static content
 
-The ‘Static Content’ components  can be used to add headings and other text formats as shown in the sample form
+The "Static Content" components can be used to add headings and other text formats as shown in the sample form
 
 ![Static Content](images/static_content.png)
 
-## BC Gov. Components
+## BC Government Components
 
-‘Business Name Search’ component will show a search field that lets the user select from a database of organizations legally registered in BC.
+"Business Name Search" component will show a search field that lets the user select from a database of organizations legally registered in BC.
 
 ![BC Gov. Component](images/bc_gov_component.png)
 
-
-
 ## Save your Design
 
-Once you’ve created a form, make sure you save your design. You can edit it anytime you wish. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers.
+Once you’ve created a form, make sure you save your design. To save your form click on the “Save Design” icon. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers.
 
 ![Save your Design](images/save.png)
 
-Once you **Save** the form, you will see this alert banner. You can preview or publish the form by clicking the blue text in the banner.
+Once you **save **the form, you will see this alert banner. You can preview your form or publish the form.
 
 ![Save your Design](images/save_draft.png)
 
