@@ -1,16 +1,21 @@
-Connect your 3rd party applications with CHEFS to give it access to any of your Form's Data through our [Documented CHEFS API Specifications](https://chefs.nrs.gov.bc.ca/app/api/v1/docs).
+Connect your 3rd party applications with CHEFS to give it access to any of your form's data through our [documented CHEFS API specifications](https://chefs.nrs.gov.bc.ca/app/api/v1/docs).
 
-## How to Generate/Regenerate API Key
+**On this page:**
+* [How to generate/regenerate an API key](#how-to-generate/regenerate-an-api-key)
+* [How to make a call to the CHEFS API](#How-to-make-a-call-to-the-CHEFS-API)
 
-You can generate an API key by going to your Form Settings, and opening the `API Key` Panel. If you want to generate a new API Key, click the `Generate API Key` button bellow and confirm your selection. You can only perform this on programatic level.
+
+## How to generate/regenerate an API key
+
+You can generate an API key by going to your "Form Settings" and opening the `API Key` Panel. If you want to generate a new API key, click the `Generate API Key` button bellow and confirm your selection. You can only perform this on programmatic level.
 
 ![HTML Tag: div, CSS Class: alert alert-primary](images/generate_key.png)
 
 Once you have generated your key, you can click on the `Show Secret Icon` to view and use this key in your 3rd party applications to make calls to our [endpoints](https://chefs.nrs.gov.bc.ca/app/api/v1/docs).
 
-If for what ever reason you may need to create a new API Key, you can click `Regenerate API Key` to replace it with a new one.
+If you need to create a new API Key, you can click `Regenerate API Key` to get a new one.
 
-Please note to never keep your API Keys in an unsecure area.
+Please note to never keep your API keys in an unsecure area.
 
 ## How to make a call to the CHEFS API
 
