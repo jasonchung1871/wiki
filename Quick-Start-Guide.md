@@ -1,5 +1,4 @@
 Follow this guide if you want to get up learn how to quickly get started building forms.
-![Sample Form](images/sample_form.png) 
 
 **On this page:**
 * [Form settings](#form-settings)
@@ -15,6 +14,8 @@ Follow this guide if you want to get up learn how to quickly get started buildin
 * [Save your design](#Save-your-design)
 * [Managing versions](#Managing-versions)
 * [Share your form](#Share-your-form)
+
+![Sample Form](images/sample_form.png) 
 
 ## Form settings
 
@@ -102,7 +103,7 @@ The "Static Content" components can be used to add headings and other text forma
 
 ![BC Gov. Component](images/bc_gov_component.png)
 
-## Save your Design
+## Save your design
 
 Once you’ve created a form, make sure you save your design. To save your form click on the “Save Design” icon. You can also export / import your design (as a JSON schema) for re-use in another form or by other form designers.
 
@@ -112,16 +113,15 @@ Once you **save **the form, you will see this alert banner. You can preview your
 
 ![Save your Design](images/save_draft.png)
 
-## Managing Versions
+## Managing versions
 
-You can create a new version of your form design, using an existing version as a starting point. You do this by clicking on the plus icon next to an existing version. A new version will be in a 'draft' state until you set it as 'published' using the toggle in the table of versions.
-You can only have one draft version, but you can delete that to re-start a new one if required.
+You can create a new version of your form design, using an existing version as a starting point. You do this by clicking on the plus icon next to an existing version. A new version will be in a 'draft' state until you set it as 'published' using the toggle in the table of versions. You can only have one draft version, but you can delete that to re-start a new one if required.
 
 ![Publish a Form](images/publish.png)
 
 ## Share your form
 
-You can send the link to anyone you would like to share this form
+You can send the link to anyone you would like to share this form.
 
 ![Share your form](images/share.png)
 
