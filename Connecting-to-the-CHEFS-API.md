@@ -1,14 +1,14 @@
-Connect an API that returns JSON to make requests and use that Data inside of your CHEFS Form. This will require some knowledge in JavaScript.
+Connect an API that returns JSON to make requests and use that data inside of your CHEFS Form. This will require some knowledge in JavaScript.
 
 ## Components
 
-When building your own Form, you can make requests to your API with any Advanced Fields Components.
+When building your own form, you can make requests to your API with any "Advanced Fields Components."
 
-- Simply drag your Advanced Field Component to your form
+- Simply drag your "Advanced Field Component" to your form
 
 ![HTML Tag: div, CSS Class: alert alert-primary](images/advanced_fields.png)
 
-- Select the Data tab within the Component's Setup Modal and open the Calculated Value panel
+- Select the "Data" tab within the component's setup modal and open the "Calculated Value" panel
 
 ![HTML Tag: div, CSS Class: alert alert-primary](images/config_modal.png)
 
@@ -59,4 +59,4 @@ makeRequest(url)
     });
 ```
 
-Add your own url for your API Request and process the response accordingly within the .then() block.
+Add your own url for your API request and process the response within the .then() block.
