@@ -2,8 +2,11 @@
 
 CHEFS forms can be used to save data into the CHEFS backend by default, but can also be modified to POST the data to an external (open) API if desired.
 
-> Download this example file and [import](Import-Export) it into your design<br>
-> [example_external_systems_schema.json](examples/example_external_systems_schema.json)
+**On this page:**
+* [Modify button behaviour](#modify-button-behaviour)
+* [Set POST options](#Set-POST-options)
+* [Post](#Post)
+* [Examples](#Examples)
 
 ## Modify Button Behaviour
 Build your form as required and edit the button at the bottom.
@@ -36,3 +39,7 @@ When the user clicks your edited button, no network calls to the backend of CHEF
 After the POST occurs, the interface will show `Success` to the user.
 
 ![success message](images/external_submit_success.png)
+
+## Examples
+> Download this example file and [import](Import-Export) it into your design<br>
+> [example_external_systems_schema.json](examples/example_external_systems_schema.json)
