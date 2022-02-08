@@ -17,7 +17,7 @@ To import an example, form or one of your own exported forms:
 
 The imported form will load into the designer. **Be careful**, the imported form will **replace** anything you've started so you may want to import into a newly created form.
 
-## Export Form
+## Export a form design
 To export a form:
 
 1. Hit the 'Export' button
