@@ -20,7 +20,6 @@
   - [Repeating data grids](Repeating-Data-Grids)
   - [Styles](Styles)
   - [Workflows & Statuses](Workflows-&-Statuses)
-- [Tutorials](Tutorials)
 - [Accessing and managing data](Accessing-and-managing-data)
   - [Connecting to CHEFS API](Connecting-to-the-CHEFS-API)
   - [Generating API keys](Generating-API-Keys)
