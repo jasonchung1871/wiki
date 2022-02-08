@@ -8,7 +8,7 @@ CHEFS forms can be used to save data into the CHEFS backend by default, but can 
 * [Post](#Post)
 * [Examples](#Examples)
 
-## Modify Button Behaviour
+## Modify button behaviour
 Build your form as required and edit the button at the bottom.
 
 To change the default submit button behaviour, edit the button on your form (or you can drag in a new button.
