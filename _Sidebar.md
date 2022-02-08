@@ -20,7 +20,6 @@
   - [Repeating data grids](Repeating-Data-Grids)
   - [Workflows & Statuses](Workflows-&-Statuses)
 - [Tutorials](Tutorials)
-  - [Dynamic Select Lists](Dynamic-Select-Lists)
   - [Sending to External Systems](External-Systems)
   - [Styles](Styles)
 - [Accessing and managing data](Accessing-and-managing-data)
