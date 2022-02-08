@@ -16,7 +16,7 @@
   - [Data validation](Data-validation)
   - [Dynamic Select Lists](Dynamic-Select-Lists)
   - [File uploads](File-uploads)
-  - [Importing and exporting form designs](#Importing-and-exporting-form-designs)
+  - [Importing and exporting form designs](Importing-and-exporting-form-designs)
   - [Workflows & Statuses](Workflows-&-Statuses)
 - [Tutorials](Tutorials)
   - [Dynamic Select Lists](Dynamic-Select-Lists)
