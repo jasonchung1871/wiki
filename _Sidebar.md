@@ -26,7 +26,7 @@
   - [Importing data into CHEFS](importing-data-into-chefs)
   - [Sending to External Systems](Sending-to-an-external-systems)
 - [Notifications](Notifications)
-- [Form Permissions](Form-permissions)
+- [Form permissions](Form-permissions)
   - [Accessing forms](Accessing-forms)
   - [Managing admin teams](Managing-admin-teams)
   - [Sharing a submission](Sharing-a-submission)
