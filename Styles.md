@@ -1,6 +1,6 @@
 Create visually pleasing designs with built-in formatting styles using our version of [Bootstrap](https://getbootstrap.com/docs/4.5/components/).
 
-On this page:
+**On this page:**
 * [Components](#Components)
 * [Utilities](#Utilities)
 * [Columns](#Columns)
