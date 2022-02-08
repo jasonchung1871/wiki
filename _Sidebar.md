@@ -17,7 +17,7 @@
   - [Dynamic Select Lists](Dynamic-Select-Lists)
   - [File uploads](File-uploads)
   - [Importing and exporting form designs](Importing-and-exporting-form-designs)
-  - [Repeating data grid](Repeating-Data-Grid)
+  - [Repeating data grids](Repeating-Data-Grids)
   - [Workflows & Statuses](Workflows-&-Statuses)
 - [Tutorials](Tutorials)
   - [Dynamic Select Lists](Dynamic-Select-Lists)
