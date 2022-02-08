@@ -1,4 +1,4 @@
-[CHEFS](https://chefs.nrs.gov.bc.ca/app/) is a web-based application for creating web forms and managing collected data
+[Common Hosted Form Service (CHEFS)](https://chefs.nrs.gov.bc.ca/app/) is a web-based application for creating web forms and managing collected data
 
 **On this page:**
 
