@@ -1,16 +1,12 @@
-You can create multiple rows of data in order to create a set of Data points.
-
+You can create multiple rows of data to create a set of Data points.
 Use the Data Grid Component in the Form Builder to start creating new rows.
 
-> Try a working example:<br>
-> [View simple example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=c07fb298-afce-41c5-8f53-8bb838546347)<br>
-> [View advanced example](https://chefs-test.apps.silver.devops.gov.bc.ca/app/form/submit?f=baee224e-7adb-42d1-bb23-418107dafaf3)
+On this page:
+* [Data grids](Data-grids)
+* [Tips](tips)
+* [Examples](examples)
 
-> You can also download the example files and [import](Import-Export) it into your design<br>
-> Simple: [simple-data-grid.json](examples/simple-data-grid.json)<br>
-> Advanced: [advanced-data-grid.json](examples/advanced-data-grid.json)
-
-# Data Grids
+## Data Grids
 
 Drag and drop a `Data Grid` Component into the designer.
 
@@ -30,3 +26,12 @@ If you require a high volume of columns in your Data Grid, we suggest that you o
 
 > You can also download an example file and [import](Import-Export) it into your design to test out columns in the Data Grid<br>
 > Example: [advanced-data-grid.json](examples/advanced-data-grid.json)
+
+## Examples
+> Try a working example:<br>
+> [View simple example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=c07fb298-afce-41c5-8f53-8bb838546347)<br>
+> [View advanced example](https://chefs-test.apps.silver.devops.gov.bc.ca/app/form/submit?f=baee224e-7adb-42d1-bb23-418107dafaf3)
+
+> You can also download the example files and [import](Import-Export) it into your design<br>
+> Simple: [simple-data-grid.json](examples/simple-data-grid.json)<br>
+> Advanced: [advanced-data-grid.json](examples/advanced-data-grid.json)
