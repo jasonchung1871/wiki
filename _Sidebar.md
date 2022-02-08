@@ -1,6 +1,6 @@
 #### Table of Contents
 
-- [Common Hosted Form Service](Common-Hosted-Form-Service-(CHEFS))
+- [Home](Home)
 - [Overview](Overview)
   - [Architecture](Architecture)
     - [State Management](State-Management)
