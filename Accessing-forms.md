@@ -15,7 +15,7 @@ Use this option if you intend to use CHEFS as a survey tool and require answers 
 <li><strong>Log-in Required:</strong>
 <ul>
 <li><strong>IDIR:</strong> To view or submit the form, the user must log in using their B.C. Government IDIR login credentials</li>
-<li><strong>Basic BCeID:</strong> The person submitting the form must log in using a BCeID username and password. If they don’t have a Basic BCeID, they can register for one via a hyperlink on the CHEFS login page. Once a user is registered, they will automatically return to the CHEFS form – it only takes a few minutes to register. Please remember to [Notify IDIM team about your CHEFS form](#Notify-IDIM-team-about-your-CHEFS-form) if you plan to use BCeID
+<li><strong>Basic BCeID:</strong> The person submitting the form must log in using a BCeID username and password. If they don’t have a Basic BCeID, they can register for one via a hyperlink on the CHEFS login page. Once a user is registered, they will automatically return to the CHEFS form – it only takes a few minutes to register. Please remember to [Notify IDIM team about your CHEFS form](#Notify-the-IDIM-team-if-you-are-using-BCeID) if you plan to use BCeID
 
 <p>If the submitter has to log in to CHEFS to submit the form, CHEFS can link the form submission to a user account and include more features. <p>
 <p>Requiring a user to log in will give them more options, such as:
@@ -29,7 +29,7 @@ Use this option if you intend to use CHEFS as a survey tool and require answers 
 <li><strong>Specific Team Members:</strong> This option allows you to limit access to your form to a smaller group of users that you invite through the *Team Management* section of the Admin panel.</li>
 </ul>
 
-**Note:** Access to the admin panel is restricted to users who have an IDIR. See the [Admin team management](Admin team management) section of the user guide for more details.
+**Note:** Access to the admin panel is restricted to users who have an IDIR. See [Managing admin teams](Managing-admin-teams) for more details.
 
 ## Notify the IDIM team if you are using BCeID
 
