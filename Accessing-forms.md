@@ -28,7 +28,7 @@ Use this option if you intend to use CHEFS as a survey tool and require answers 
 </li>
 <li><strong>Specific Team Members:</strong> This option allows you to limit access to your form to a smaller group of users that you invite through the "Team Management" section of the Admin panel.</li>
 </ul>
-<p>&nbsp;</p>
+<br />
 
 > **Note:** Access to the admin panel is restricted to users who have an IDIR. See [Managing admin teams](Managing-admin-teams) for more details.
 
