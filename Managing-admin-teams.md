@@ -1,4 +1,4 @@
-You can add team members who has an IDIR account to administer your form or review submissions. 
+You can add team members who has an IDIR account to administer your form or review submissions. You cannot add users with a BCeID. 
 
 **On this page:**
 * [Adding a new team member](#adding-a-new-team-member)
