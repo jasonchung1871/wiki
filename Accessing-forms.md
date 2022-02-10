@@ -30,7 +30,7 @@ Use this option if you intend to use CHEFS as a survey tool and require answers 
 </ul>
 <br />
 
-> **Note:** Access to the admin panel is restricted to users who have an IDIR. See [Managing admin teams](Managing-admin-teams) for more details.
+> **Note:** The administration panel is restricted to users who have an IDIR. See [Managing admin teams](Managing-admin-teams) for more details on how to add administrators to you form.
 
 ## Notify the IDIM team if you are using BCeID
 
