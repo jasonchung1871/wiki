@@ -1,8 +1,4 @@
-# Architecture
-
-This page outlines the general architecture and design principles of CHEFS and is mainly intended for a technical audience, and for people who want to have a better understanding of how the system works.
-
-## Table of Contents
+**On this page:**
 
 - [Infrastructure](#infrastructure)
   - [High Availability](#high-availability)
