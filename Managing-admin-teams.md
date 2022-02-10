@@ -1,4 +1,4 @@
-You can add team members to administer your form or review submissions. 
+You can add team members who has an IDIR account to administer your form or review submissions. 
 
 **On this page:**
 * [Adding a new team member](#adding-a-new-team-member)
@@ -8,7 +8,7 @@ Go to the Team Management page to configure role-based access for your team.
 
 ## Adding new team member
 ![](images/team_mgmt.png) 
-Click the `Add a team member` icon, then search for the user by IDIR or name. Note that team members must have logged in to CHEFS at least once before they can be added to your team.
+Click the `Add a team member` icon, then search for the user by their IDIR or name. Note that team members must have logged in to CHEFS at least once before they can be added to your team.
 
 ## Roles
 There are 5 roles available. A form must have always at least 1 owner. A team manager (and owner) can edit team member roles.
