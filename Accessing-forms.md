@@ -26,7 +26,7 @@ Use this option if you intend to use CHEFS as a survey tool and require answers 
 </ul></p>
 <p>Requiring a log-in also secures access to your form if it is only intended for a limited audience.</p>
 </li>
-<li><strong>Specific Team Members:</strong> This option allows you to limit access to your form to a smaller group of users that you invite through the *Team Management* section of the Admin panel.</li>
+<li><strong>Specific Team Members:</strong> This option allows you to limit access to your form to a smaller group of users that you invite through the "Team Management" section of the Admin panel.</li>
 </ul>
 <p>&nbsp;</p>
 
