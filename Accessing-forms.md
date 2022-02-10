@@ -43,3 +43,6 @@ If you decide to use the **'Log-in Required - Basic BCeID'** setting for your fo
 There are a few steps that IDIM will follow up and work with you on including a self-assessment and a signed Service Agreement.
  
 * [Learn more about BCeID](https://www.bceid.ca/)
+
+> **Note:** BCeID users cannot be added to your form as an administrator. See [Managing admin teams](Managing-admin-teams) for more details on how to add administrators to you form.
+
