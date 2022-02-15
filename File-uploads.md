@@ -14,8 +14,7 @@ On this page:
 - Add a label describing the Type of file you want people to upload (eg: 'resume' or 'cover letter')
 - File Pattern - we encourage you to enter a list of the allowed file extensions. (For example: `.docx, .doc, .pdf`)
   
-> **Note**: File Uploads are currently not available to use on public (anonymous) forms that do not require the submitter to log-in.
-This is for security reasons. We’re looking into ways we can allow file uploads on public forms in a future release.
+> **Note**: File Uploads are limited to forms that use IDIR or BCeID access. This is for security reasons. We’re looking into ways we can allow file uploads on public forms in a future release.
 
 ## File Storage
 
