@@ -40,7 +40,18 @@ If you decide to use the **'Log-in Required - Basic BCeID'** setting for your fo
 * Contact Email address
 * Estimate of how many submissions the form may receive per year
 
-There are a few steps that IDIM will follow up and work with you on including a self-assessment and a signed Service Agreement.
+There are a few steps that IDIM will follow up and work with you on including a self-assessment and a signed Service Agreement:
+
+*	Submission of a BCeID onboarding self assessment to IDIM.Consulting@gov.bc.ca ( Client responsibility ) 
+*	Participation in Client | BCeID onboarding kickoff meeting ( Joint Client | IDIM responsibility ) 
+*	Client Supplementary Service added to Schedule B of the CHEFS Service Agreement ( Joint Client | IDIM responsibility) 
+*	Review & Signoff of Updated Service Agreement(s) (Client responsibility) 
+*	Creation of Online Service Directory (OSD) entries in BCeID application as part of your audit record (Client responsibility) 
+*	Submission of your project’s communications / invitations to the Public (that mention BCeID) submitted to IDIM.Consulting@gov.bc.ca for review & signoff (Client responsibility) 
+*	Notify IDIM Consulting what your target Production Go-Live | BCeID account First Users date is - (please notify them if previously disclosed dates are moved or changed) (Client responsibility) 
+*	Provide estimates of BCeID end user account volumes (by BCeID account type) a) at launch and b) after the first year of operation - (please notify them if previously disclosed end user BCeID account volumes change) (Client responsibility) 
+
+Additional forms created for a similar purpose and similar customer base may not have to go past the self-assessment step but IDIM Consulting will advise you on that. 
  
 * [Learn more about BCeID](https://www.bceid.ca/)
 
