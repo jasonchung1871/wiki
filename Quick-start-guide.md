@@ -1,4 +1,4 @@
-Follow this guide if you want to get up learn how to quickly get started building forms.
+Follow this guide if you want to learn how to quickly get started building forms.
 
 **On this page:**
 * [Form settings](#form-settings)
