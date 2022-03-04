@@ -10,7 +10,7 @@ Follow this guide if you want to learn how to quickly get started building forms
 * [Checkbox group](#Checkbox-group)
 * [Panel layout](#Panel-layout)
 * [Static content](#static-content)
-* [B.C. Government components](#B.C.-Government-components)
+* [B.C. Government components](#bc-government-components)
 * [Save your design](#Save-your-design)
 * [Managing versions](#Managing-versions)
 * [Share your form](#Share-your-form)
