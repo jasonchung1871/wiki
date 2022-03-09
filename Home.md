@@ -49,5 +49,5 @@ Do you have a feature request for CHEFS? Post your ideas, leave a comment or vot
 <ul>
 <li><a href="https://teams.microsoft.com/l/channel/19%3a34b9d4b4deb54eebaa9be8bc1ccf02f7%40thread.tacv2/CHEFS?groupId=bef8086f-20c7-43a4-bd07-29ce764e818c&tenantId=6fdb5200-3d0d-4a8a-b036-d3685e359adc">Join the CHEFS community MS Teams channel</a></li>
 <li>Find developer support on our <a href="https://chat.developer.gov.bc.ca/channel/nr-common-services-showcase">Rocket.Chat channel #nr-common-services-showcase</a></li>
-<li>Email: <a href="mailto:"nr.commonserviceshowcase@gov.bc.ca">nr.commonserviceshowcase@gov.bc.ca</a></li>
+<li>Email: <a href="mailto:"NR.CommonServiceShowcase@gov.bc.ca">NR.CommonServiceShowcase@gov.bc.ca</a></li>
 </ul>
