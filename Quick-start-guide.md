@@ -1,4 +1,4 @@
-Follow this guide if you want to learn how to quickly get started building forms.
+Follow this guide if you want to learn how to quickly get started building forms.  You will require an IDIR attached to a valid email address to connect.
 
 **On this page:**
 * [Form settings](#form-settings)
