@@ -80,15 +80,15 @@ Other Improvements
 
 ## v1.4.0 - Continuous Improvement
 
-* [ ] Improved documentation and tutorials
+* [x] Improved documentation and tutorials
 * [ ] Submitters can download multiple submissions at once
-* [ ] Form Administrators are notified on status updates on forms
-* [ ] Submitters are notified on completion
+* [x] Form Administrators are notified on status updates on forms AND can add an optional comment to submitter
+* [x] Submitters are notified on status updates including completion
 
 ## vx.x - Potential Future Plans
 
 * [ ] Custom spatial form component
-* [ ] Enable Form Wizard builder
+* [ ] Filter list of submissions with the API
 * [ ] Analysis/BI
-* [ ] Authentication with BC Services Card
-* [ ] Offline data capture
+* [ ] Authentication with Business BCeID
+* [ ] Technical Debt - confirm load and performance capability
