@@ -19,7 +19,7 @@
   - [Importing and exporting form designs](Importing-and-exporting-form-designs)
   - [Repeating data grids](Repeating-Data-Grids)
   - [Styles](Styles)
-  - [Workflows & statuses](Workflows-&-Statuses)
+  - [Workflows & statuses](Workflows-and-Statuses)
 - [Accessing and managing data](Accessing-and-managing-data)
   - [Connecting to CHEFS API](Connecting-to-the-CHEFS-API)
   - [Generating API keys](Generating-API-Keys)
