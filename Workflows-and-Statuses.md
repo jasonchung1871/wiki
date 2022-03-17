@@ -30,12 +30,12 @@ To access the workflow features, you need to:
 
 You can also access your submissions from your "My Forms" page and click the "Submissions" link for that form.
 
-![](images/status-workflow-3.png)
-
 In the "Status Panel" for that submission, there is a drop-down menu with three options: 
 * Assigned
 * Completed
 * Revising
+
+![](images/status-workflow-3.png)
 
 ### Setting a submission to "Assigned"
 
@@ -71,8 +71,8 @@ If you have reviewed and want to close a submission, you can mark it as "Complet
 ![](images/status-completed.png)
 
 If you choose "Completed" from the drop-down, you will send a message to the submitter currently owning the submission. You also can send the submitter a message by clicking the "Attach Comment to Email" box and using the message text field.
- 
+
 When you click on the "Complete" button, the reviewer will receive an email notification with a link to the submission and any message you included.
- 
+
 Any attached messages will appear in the "Notes" section, so you have a log of all communications.
 
