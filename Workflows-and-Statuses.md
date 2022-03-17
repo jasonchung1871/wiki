@@ -1,4 +1,4 @@
-Forms can be handled in many ways to communicate what needs to be done to a submission between CHEFS users.
+Workflows and statuses allow you to communicate with your clients and operations team to complete CHEFS submissions.
 
 **On this page:**
 * [How to enable workflows](#How-to-enable-workflows)
