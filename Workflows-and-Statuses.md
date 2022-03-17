@@ -1,64 +1,78 @@
 Forms can be handled in many ways to communicate what needs to be done to a submission between CHEFS users.
 
 **On this page:**
-* [How to change a Submission's status](#How-to-change-a-Submission's-status)
-* [Setting a submission to assigned](#Setting-a-submission-to-assigned)
-* [Setting a submission to completed](#Setting-a-submission-to-completed)
-* [Setting a submission to revising](#Setting-a-submission-to-revising)
+* [How to enable workflows](#How-to-enable-workflows)
+* [Using workflows](#Using-workflows)
 
-## How to change a submission's status
+## How to enable workflows
 
-First, your form needs to have the reviewers can update the status of this form (i.e. Submitted, Assigned, Completed) enabled in order to change the submissions' status:
+### Enabling the "Assigned" status
+First, your need to enable reviewers on your "Forms Settings" page by clicking on the "Reviewers can update the status of this form" option under "Form Functionality." 
+ 
+Having reviewers will allow you to change a form's status between three states: submitted, assigned and completed. 
+ 
+### Enabling the "Revising" status
+To enable this feature on your "Manage Form" page, you must:
+1. Turn on "Log-in required" under "Form access have to require users to log in with their IDIR or BCeID
+2. Check the "Submitters can Save and Edit Drafts" under "Form Functionality"
 
 ![](images/status-workflow-settings-2.png)
 
-Click on the “View Submissions” Icon to view all the submissions for your form:
+## Using workflows
 
+To access the workflow features, you need to:
+
+1. Click on the "View Submissions" icon to view all the submissions for your form on the "Manage Form" page 
 ![](images/status-workflow-1.png)
 
-Click on the “View Submission” Icon for the submission that you want to edit:
-
+2. Then click on the "View Submission" icon under "Actions" at the end of any submission row to view those results 
 ![](images/status-workflow-2.png)
 
-In the status panel, select one of the statuses that you want to set your submission to:
+You can also access your submissions from your "My Forms" page and click the "Submissions" link for that form.
 
 ![](images/status-workflow-3.png)
 
-There are multiple statuses that you can set a submission to:
+In the "Status Panel" for that submission, there is a drop-down menu with three options: 
+* Assigned
+* Completed
+* Revising
 
-1. Assigned
-2. Completed
-3. Revising
+### Setting a submission to "Assigned"
 
-## Setting a submission to assigned
+As a CHEFS administrator, you can send a submission to one of your team members for their review by choosing "Assigned" from the drop-down. 
 
-As a CHEFS Admin, you can set your form to “Assigned” and assign an owner or reviewer back to the submission. This allows form admins to notify other owners/reviewers that a specific submission requires attention.
+![](images/status-assigned.png)
 
-![](images/status-workflow-4.png)
+To find your team member, start typing their name into the "Assign to" box that appears. 
+ 
+You also can send a message to the assignee by clicking on the "Attach Comment to Email" box and adding a message in the text field that appears. 
+ 
+When you click on the "Assign" button, the assignee will receive an email notification with a link to the submission and any message you included.
+ 
+Any attached messages will appear in the "Notes" section, so you have a log of all communications.
 
-Once you select an owner/reviewer and set the submission to “Assigned”, an email will be sent to the selected owner/reviewer with a link to review the submission.
+## Setting a submission to "Revising"
 
-> Reviewers can see a submission that has been submitted as well as revisions as they are saved.
+Setting a form to "Revising" allows you to send it back to the submitter to make changes before finalizing their submission.
 
-## Setting a submission to completed
+![](images/status-revising.png)
 
-As a CHEFS Admin, you can also set your form to “Completed”. Completed signifies that you are deeming the submission as final and should not be edited.
+If you choose "Revising" from the drop-down, the submitter's email will already be in the "Recipient Email" field. You can change it to another email address. However, they will have to be able to log into CHEFS with either their IDIR or BCeID -- depending on what you choose.
+ 
+You also can send a message to the reviewer by clicking on the "Attach Comment to Email" box and adding a message in the text field that appears. 
+ 
+When you click on the "Revising" button, the reviewer will receive an email notification with a link to the submission and any message you included.
+ 
+Any attached messages will appear in the "Notes" section, so you have a log of all communications.
 
-![](images/status-workflow-5.png)
+### Setting a submission to "Completed"
+If you have reviewed and want to close a submission, you can mark it as "Completed."  
 
-## Setting a submission to revising
+![](images/status-completed.png)
 
-Your form will need to have the submitters can save and edit drafts setting enabled before you can select the Revising status.
-
-![](images/status-workflow-settings.png)
-
-As a CHEFS Admin, you can also set your form to “Revising” and provide an email to send a notification to any form submitter. Once you set the submission to “Revising” and provide an optional message, an email is sent with the message which also links to the submission for revision.
-
-![](images/status-workflow-6.png)
-
-The form Submitter should now be able to Edit the submission and make new changes to the submission. They can set the submission back as draft if need be.
-
-Reviewers can also re-claim control of a submission when it is in the Revising state, while Submitters cannot edit the submission unless it has a 'draft' or 'revising' status.
-
-Only submissions in draft mode can be deleted by Submitters.
+If you choose "Completed" from the drop-down, you will send a message to the submitter currently owning the submission. You also can send the submitter a message by clicking the "Attach Comment to Email" box and using the message text field.
+ 
+When you click on the "Complete" button, the reviewer will receive an email notification with a link to the submission and any message you included.
+ 
+Any attached messages will appear in the "Notes" section, so you have a log of all communications.
 
