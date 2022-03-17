@@ -53,8 +53,11 @@ Any attached messages will appear in the "Notes" section, so you have a log of a
 Setting a form to "Revising" allows you to send it back to the submitter to make changes before finalizing their submission.
 
 ![](images/status-revising.png)
+
 If you choose "Revising" from the drop-down, the submitter's email will already be in the "Recipient Email" field. You can change it to another email address. However, they will have to be able to log into CHEFS with either their IDIR or BCeID -- depending on what you choose.
-You also can send a message to the reviewer by clicking on the "Attach Comment to Email" box and adding a message in the text field that appears. 
+
+You also can send a message to the reviewer by clicking on the "Attach Comment to Email" box and adding a message in the text field that appears.
+
 When you click on the "Revising" button, the reviewer will receive an email notification with a link to the submission and any message you included.
 
 Any attached messages will appear in the "Notes" section, so you have a log of all communications.
