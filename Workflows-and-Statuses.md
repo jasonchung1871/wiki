@@ -44,8 +44,11 @@ As a CHEFS administrator, you can send a submission to one of your team members 
 ![](images/status-assigned.png)
 
 To find your team member, start typing their name into the "Assign to" box that appears.
+
 You also can send a message to the assignee by clicking on the "Attach Comment to Email" box and adding a message in the text field that appears.
+
 When you click on the "Assign" button, the assignee will receive an email notification with a link to the submission and any message you included.
+
 Any attached messages will appear in the "Notes" section, so you have a log of all communications.
 
 ## Setting a submission to "Revising"
