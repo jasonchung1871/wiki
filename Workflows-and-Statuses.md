@@ -7,14 +7,18 @@ Workflows and statuses allow you to communicate with your clients and administra
 ## How to enable workflows
 
 ### Enabling the "Assigned" status
-First, your need to enable reviewers on your "Forms Settings" page by clicking on the "Reviewers can update the status of this form" option under "Form Functionality." 
+To turn on the "Assigned" workflow, you need to:
+* Go to the "Forms Settings" area of your "Manage Form"
+* Click on the "Reviewers can update the status of this form" option under "Form Functionality." 
  
-Having reviewers will allow you to change a form's status between three states: submitted, assigned and completed. 
+Having reviewers will allow you to change a form's status between two states: assigned and completed. 
  
 ### Enabling the "Revising" status
 To enable this feature on your "Manage Form" page, you must:
 1. Turn on "Log-in required" under "Form access have to require users to log in with their IDIR or BCeID
 2. Check the "Submitters can Save and Edit Drafts" under "Form Functionality"
+
+This will now allow you access to all three states: revising, assigned, and completed.
 
 ![](images/status-workflow-settings-2.png)
 
@@ -43,7 +47,7 @@ As a CHEFS administrator, you can send a submission to one of your team members 
 
 ![](images/status-assigned.png)
 
-To find your team member, start typing their name into the "Assign to" box that appears.
+To find your team member, start typing their name into the "Assign to" box that appears. If they do not appear in the list you will have to add them to your [administration team](bcgov/common-hosted-form-service/wiki/Managing-admin-teams).
 
 You also can send a message to the assignee by clicking on the "Attach Comment to Email" box and adding a message in the text field that appears.
 
@@ -57,7 +61,7 @@ Setting a form to "Revising" allows you to send it back to the submitter to make
 
 ![](images/status-revising.png)
 
-If you choose "Revising" from the drop-down, the submitter's email will already be in the "Recipient Email" field. You can change it to another email address. However, they will have to be able to log into CHEFS with either their IDIR or BCeID -- depending on what you choose.
+If you choose "Revising" from the drop-down, the submitter's email will already be in the "Recipient Email" field. You can change it to another email address. However, they will have to be able to log into CHEFS with either their IDIR or BCeID - depending on how you have set up your form.
 
 You also can send a message to the reviewer by clicking on the "Attach Comment to Email" box and adding a message in the text field that appears.
 
@@ -70,7 +74,9 @@ If you have reviewed and want to close a submission, you can mark it as "Complet
 
 ![](images/status-completed.png)
 
-If you choose "Completed" from the drop-down, you will send a message to the submitter currently owning the submission. You also can send the submitter a message by clicking the "Attach Comment to Email" box and using the message text field.
+If you choose "Completed" from the drop-down, you will notify to the submitter who owns the submission that their submission is now closed. 
+
+You also can send the submitter a message by clicking the "Attach Comment to Email" box and using the message text field.
 
 When you click on the "Complete" button, the reviewer will receive an email notification with a link to the submission and any message you included.
 
