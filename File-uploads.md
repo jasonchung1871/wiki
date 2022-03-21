@@ -1,6 +1,6 @@
->@ icon-iconName Please Note
->There is a current limitation with the CHEFS file upload tool. At the moment, users have to attach any files within the first five minutes of logging into your form. Otherwise, they may experience issues submitting their files.
->We are investigating how to fix is issue.
+>**Please Note**
+>There is a current limitation with the CHEFS file upload tool. At the moment, users have to attach any files within the first five minutes of logging into your form. Otherwise, they may experience issues submitting their forms. <br>
+>We are investigating how to resolve this issue.
 
 The CHEFS form builder has a 'File Upload' component. This allows someone to attach files or documents when submitting the form.
 
