@@ -5,7 +5,7 @@ On this page:
 * [Data grids](Data-grids)
 * [Tips](tips)
 * [Examples](examples)
-* [Examples](Examples)
+* [Examples](examples)
 
 ## Data Grids
 
