@@ -3,7 +3,7 @@ Use the Data Grid Component in the Form Builder to start creating new rows.
 
 On this page:
 * [Data grids](#data-grids)
-* [Tips](tips)
+* [Tips](#tips)
 * [Examples](#examples)
 
 ## Data Grids
