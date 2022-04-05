@@ -5,7 +5,7 @@ On this page:
 * [Data grids](Data-grids)
 * [Tips](tips)
 * [Examples](examples)
-* [Examples](examples)
+* [Examples](https://github.com/bcgov/common-hosted-form-service/wiki/Repeating-data-grids#examples)
 
 ## Data Grids
 
