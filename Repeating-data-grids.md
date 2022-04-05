@@ -4,7 +4,6 @@ Use the Data Grid Component in the Form Builder to start creating new rows.
 On this page:
 * [Data grids](Data-grids)
 * [Tips](tips)
-* [Examples](examples)
 * [Examples](https://github.com/bcgov/common-hosted-form-service/wiki/Repeating-data-grids#examples)
 
 ## Data Grids
