@@ -2,9 +2,9 @@ You can create multiple rows of data to create a set of Data points.
 Use the Data Grid Component in the Form Builder to start creating new rows.
 
 On this page:
-* [Data grids](Data-grids)
+* [Data grids](#data-grids)
 * [Tips](tips)
-* [Examples](https://github.com/bcgov/common-hosted-form-service/wiki/Repeating-data-grids#examples)
+* [Examples](#examples)
 
 ## Data Grids
 
