@@ -11,5 +11,22 @@
 <td>
 <a href="Conditional-forms-fields">Conditional forms fields</a>, <a href="Repeating-Data-Grids">Repeating data grids</a>, <a href="Dynamic-Select-Lists">Dynamic select lists</a>
 </td>
+<td>&nbsp;</td>
 </tr>
 </table>
+
+## Examples of CHEFS features
+
+<table>
+<tr>
+<td>Feature example</td>
+<td>Downloads</td>
+</tr>
+<tr>
+<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=9bc36ebf-c6c3-4f5a-9a8d-ea9e8acb0ded">Conditional forms fields example</a></td>
+<td>
+<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example_conditional_logic_schema.json">example_conditional_logic_schema.json</a>
+</td>
+</tr>
+</table>
+
