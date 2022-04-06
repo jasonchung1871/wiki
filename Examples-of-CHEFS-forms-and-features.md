@@ -32,7 +32,7 @@
 <tr>
 <td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=858a4aba-7e7b-4019-80c1-78a414ee5129">Calculated values example</a></td>
 <td>
-https://github.com/bcgov/common-hosted-form-service/wiki/examples/example__calculated_values_schema.json">example_calculated_values_schema.json</a>
+<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example__calculated_values_schema.json">example_calculated_values_schema.json</a>
 </td>
 </tr>
 
