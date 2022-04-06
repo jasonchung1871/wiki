@@ -8,6 +8,7 @@
   - [Product roadmap](Product-roadmap)
 - [Creating forms](Creating-forms)
   - [Quick start guide](Quick-Start-Guide)
+  - [Example forms and features](Examples-of-CHEFS-forms-and-features)
   - [Printing from a browser](Printing-from-a-browser)
   - [Calculated values](Calculated-Values)
   - [CDOGS template upload](CDOGS-Template-Upload)
