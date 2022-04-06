@@ -22,6 +22,10 @@
 
 ## Examples of CHEFS features
 
+We have created some examples of features you might want to use in your forms. Feel free to download the JSON files and incorporate them into your forms.
+ 
+**Note:** You will want to import the JSON into a new form, as it will overwrite any of your existing work.
+
 <table>
 <tr>
 <td>Feature example</td>
