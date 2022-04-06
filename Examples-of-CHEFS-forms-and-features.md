@@ -1,4 +1,4 @@
-## CHEFS in Action
+## CHEFS forms in action
 
 <table>
 <tr>
@@ -28,5 +28,20 @@
 <a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example_conditional_logic_schema.json">example_conditional_logic_schema.json</a>
 </td>
 </tr>
+
+<tr>
+<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=4ee726e0-f7a7-49a1-8454-7325d2593a7d">Dynamic select lists example</a></td>
+<td>
+<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example__dynamic_select_lists_schema.json">example__dynamic_select_lists_schema.json</a>
+</td>
+</tr>
+
+<tr>
+<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=4ee726e0-f7a7-49a1-8454-7325d2593a7d">Dynamic select lists example</a></td>
+<td>
+<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example__dynamic_select_lists_schema.json">example__dynamic_select_lists_schema.json</a>
+</td>
+</tr>
+
 </table>
 
