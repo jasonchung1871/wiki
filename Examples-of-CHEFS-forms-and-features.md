@@ -1,8 +1,7 @@
 ## CHEFS forms in action
 
-<p>Take a look at what other CHEFS users are doing with their forms. </p>
+<p>CHEFS has a lot of different features to help you collect data. Below are some examples of what others in the CHEFS community are doing with their forms. </p>
 
-<p>Is your form taking advantage of CHEFS more advanced features? Or are you using it to collect a lot of different data? If you are interested in sharing your form with the broader community, send us an export of your form and the URL so others can check it out. You can send your files to <a href="mailto:"NR.CommonServiceShowcase@gov.bc.ca">NR.CommonServiceShowcase@gov.bc.ca</a>.</p>
 
 <table>
 <tr>
@@ -18,6 +17,8 @@
 <td>&nbsp;</td>
 </tr>
 </table>
+
+<p>Is your form taking advantage of CHEFS more advanced features? Or are you using it to collect a lot of different data? If you are interested in sharing your form with the broader community, send us an export of your form and the URL so others can check it out. You can send your files to <a href="mailto:"NR.CommonServiceShowcase@gov.bc.ca">NR.CommonServiceShowcase@gov.bc.ca</a>.</p>
 
 ## Examples of CHEFS features
 
