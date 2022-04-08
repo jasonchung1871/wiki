@@ -81,14 +81,16 @@ Other Improvements
 ## v1.4.0 - Continuous Improvement
 
 * [x] Improved documentation and tutorials
-* [ ] Submitters can download multiple submissions at once
 * [x] Form Administrators are notified on status updates on forms AND can add an optional comment to submitter
 * [x] Submitters are notified on status updates including completion
+* [ ] Authentication with Business BCeID
+* [ ] Technical Debt - confirm load and performance capability
+* [ ] Include fields in email notifications
+* [ ] Integrate with COMS for file uploads
 
 ## vx.x - Potential Future Plans
 
+* [ ] Submitters can download multiple submissions at once and attach a template permanently
 * [ ] Custom spatial form component
 * [ ] Filter list of submissions with the API
 * [ ] Analysis/BI
-* [ ] Authentication with Business BCeID
-* [ ] Technical Debt - confirm load and performance capability
