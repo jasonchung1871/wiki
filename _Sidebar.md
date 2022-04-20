@@ -25,6 +25,7 @@
   - [Connecting to CHEFS API](Connecting-to-the-CHEFS-API)
   - [Generating API keys](Generating-API-Keys)
   - [Importing data into CHEFS](importing-data-into-chefs)
+  - [Offline mode](Offline-mode)
   - [Sending to external systems](Sending-to-an-external-systems)
 - [Notifications](Notifications)
 - [Form permissions](Form-permissions)
