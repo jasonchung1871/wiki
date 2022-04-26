@@ -83,7 +83,7 @@ Other Improvements
 * [x] Improved documentation and tutorials
 * [x] Form Administrators are notified on status updates on forms AND can add an optional comment to submitter
 * [x] Submitters are notified on status updates including completion
-* [ ] Authentication with Business BCeID
+* [x] Authentication with Business BCeID
 * [x] Added undo/re-do to the Form Designer
 * [ ] Technical Debt - confirm load and performance capability
 * [ ] Include fields in email notifications
