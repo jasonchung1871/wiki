@@ -1,3 +1,6 @@
+On this page:
+* [CHEFS forms in action](CHEFS forms in action)
+* [Examples of CHEFS features](Examples of CHEFS features)
 ## CHEFS forms in action
 
 <p>CHEFS has a lot of different features to help you collect data. Below are some examples of what others in the CHEFS community are doing with their forms. </p>
