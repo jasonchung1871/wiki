@@ -7,7 +7,7 @@ To start using the undo-redo feature:
 <figure>
     <img src="images/chefs-undo-fig1.png" style="width:100%" alt="Undo and Redo not active">
     
-<figcaption style="text-align: center;">Figure 1: Drag a form component onto the form builder
+<figcaption><p  style="text-align: center">Figure 1: Drag a form component onto the form builder</p>
 </figcaption>
 
 </figure>
