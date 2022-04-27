@@ -9,8 +9,8 @@ To start using the undo-redo feature:
     <figcaption align="center">Figure 1: Drag a form component onto the form builder</figcaption>
 </figure> 
 
-![Figure 1: Drag a form component onto the form builder](images/chefs-undo-fig1.png) 
-> Figure 1: Drag a form component onto the form builder
+| ![Figure 1: Drag a form component onto the form builder](images/chefs-undo-fig1.png) |
+| Figure 1: Drag a form component onto the form builder |
 
 2. To undo a change you have made, click **Undo**.
 3. To redo something you have undone, click **Redo**. The **Redo** button is only enabled after you've undone a change.
