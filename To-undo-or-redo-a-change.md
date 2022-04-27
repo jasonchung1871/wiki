@@ -9,7 +9,7 @@ To start using the undo-redo feature:
 </figcaption>
     <img src="images/chefs-undo-fig1.png" style="width:100%" alt="Undo and Redo not active">
 </figure>
-<br>
+<p>&nbsp;</p>
 
 2. To undo a change you have made, click **Undo** (Fig. 2).
 <figure>
@@ -17,7 +17,7 @@ To start using the undo-redo feature:
 </figcaption>
     <img src="images/chefs-undo-fig2.png" style="width:100%" alt="Undo button is active">
 </figure>
-<br>
+<p>&nbsp;</p>
 
 3. To redo something you have undone, click **Redo**. The **Redo** button is only enabled after you've undone a change (Fig. 3).
 <figure>
@@ -25,7 +25,7 @@ To start using the undo-redo feature:
 </figcaption>
     <img src="images/chefs-undo-fig3.png" style="width:100%" alt="Redo button is active">
 </figure>
-<br>
+<p>&nbsp;</p>
 
 4. Click **Save Design** to save your changes.
 
