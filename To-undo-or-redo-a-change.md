@@ -1,4 +1,4 @@
-When creating or updating an existing form, mistakes happen. You can use the Undo or Redo feature to correct any error.
+When creating or updating an existing form, mistakes happen. You can use the **Undo** or **Redo** feature to correct any error.
 
 To start using the undo-redo feature:
 
