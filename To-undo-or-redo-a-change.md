@@ -25,6 +25,7 @@ To start using the undo-redo feature:
     <img src="images/chefs-undo-fig3.png" style="width:100%" alt="Redo button is active">
 </figure>
 <br>
+
 4. Click **Save Design** to save your changes.
 
 > **Tip:** There is no limit to the number of undoable changes. However, if you leave the form edit screen, you will lose your undo history. If you want to keep your undo history, try loading the form preview in another browser tab or window.
