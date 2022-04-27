@@ -12,12 +12,18 @@ To start using the undo-redo feature:
 
 2. To undo a change you have made, click **Undo** (Fig. 2).
 <figure>
-<figcaption><p align="center">Figure 2: Click Undo to step back a change</p>
+<figcaption><p align="center">Figure 2: Click <strong>Undo</strong> to step back a change</p>
 </figcaption>
     <img src="images/chefs-undo-fig2.png" style="width:100%" alt="Undo button is active">
 </figure>
 
 3. To redo something you have undone, click **Redo**. The **Redo** button is only enabled after you've undone a change (Fig. 3).
+<figure>
+<figcaption><p align="center">Figure 3: Click <strong>Redo</strong> to forward a change</p>
+</figcaption>
+    <img src="images/chefs-undo-fig3.png" style="width:100%" alt="Redo button is active">
+</figure>
+
 4. Click **Save Design** to save your changes.
 
 > **Tip:** There is no limit to the number of undoable changes. However, if you leave the form edit screen, you will lose your undo history. If you want to keep your undo history, try loading the form preview in another browser tab or window.
