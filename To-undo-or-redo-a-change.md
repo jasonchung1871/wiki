@@ -10,6 +10,7 @@ To start using the undo-redo feature:
     <img src="images/chefs-undo-fig1.png" style="width:100%" alt="Undo and Redo not active">
 </figure>
 <br>
+
 2. To undo a change you have made, click **Undo** (Fig. 2).
 <figure>
 <figcaption><p align="center"><small>Figure 2: Click <strong>Undo</strong> to step back a change</small></p>
