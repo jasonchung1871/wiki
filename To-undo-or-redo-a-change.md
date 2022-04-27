@@ -21,7 +21,7 @@ To start using the undo-redo feature:
 
 3. To redo something you have undone, click **Redo**. The **Redo** button is only enabled after you've undone a change (Fig. 3).
 <figure>
-<figcaption><p align="center"><small>Figure 3: Click <strong>Redo</strong> to forward a change</small></p>
+<figcaption><p align="center"><small>Figure 3: Click <strong>Redo</strong> to step forward a change</small></p>
 </figcaption>
     <img src="images/chefs-undo-fig3.png" style="width:100%" alt="Redo button is active">
 </figure>
