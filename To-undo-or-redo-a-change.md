@@ -1,6 +1,6 @@
-When creating or updating an existing form, mistakes happen. You can use the **Undo** or **Redo** feature to correct any error.
+When creating or updating an existing form, mistakes happen. You can use the **Undo** or **Redo** feature to correct an error.
 
-To start using the undo-redo feature:
+To start using the **Undo Redo** feature:
 
 1. Drag any form component onto the form builder or make a change to an existing form component to enable the undo feature (Fig. 1).
 
