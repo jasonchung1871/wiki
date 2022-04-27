@@ -20,6 +20,7 @@
   - [Importing and exporting form designs](Importing-and-exporting-form-designs)
   - [Repeating data grids](Repeating-Data-Grids)
   - [Styles](Styles)
+  - [Undo or redo a change](To-undo-or-redo-a-change)
   - [Workflows & statuses](Workflows-and-Statuses)
 - [Accessing and managing data](Accessing-and-managing-data)
   - [Connecting to CHEFS API](Connecting-to-the-CHEFS-API)
