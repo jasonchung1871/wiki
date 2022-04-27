@@ -2,6 +2,7 @@ When creating or updating an existing form, mistakes happen. You can use the Und
 
 To start using the undo-redo feature:
 1. Drag any form component onto the form builder or make a change to an existing form component to enable the undo feature.
+![Figure 1: Drag a form component onto the form builder](chefs-undo-fig1.png)  
 2. To undo a change you have made, click **Undo**.
 3. To redo something you have undone, click **Redo**. The **Redo** button is only enabled after you've undone a change.
 4. Click **Save Design** to save your changes.
