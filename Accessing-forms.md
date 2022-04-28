@@ -8,7 +8,12 @@ On this page:
 You can choose from three levels of access for your form – **Public**, **Log-in Required**, and **Specific Team Members** (Figure 1).
 
 Each option comes with its own set of considerations.
-
+<figure>
+<figcaption><p align="center"><small>Figure 1: ![image](https://user-images.githubusercontent.com/9811830/165863985-256fdab2-4cd3-4b12-b3f0-5b25bb140179.png)</small></p>
+</figcaption>
+    <img src="images/chefs-form-access-fig1.png" alt="Select Team Management">
+</figure>
+<p>&nbsp;</p>
 
 **Public (anonymous)**
 The public option gives anyone access to your from, whether inside or outside government. 
