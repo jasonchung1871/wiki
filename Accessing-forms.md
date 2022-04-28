@@ -1,8 +1,91 @@
 On this page:
-* [Form access types](#form-access-types)
-* [Notify the IDIM team if you are using BCeID](#Notify-the-idim-team-if-you-are-using-bceid)
+- [To set form access](#to-set-form-access)
+- [Form access types](#form-access-types)
+- [Notify the IDIM team if you are using BCeID](#notify-the-idim-team-if-you-are-using-bceid)
 
 ## To set form access
+
+You can choose from three levels of access for your form – **Public**, **Log-in Required**, and **Specific Team Members** (Figure 1).
+
+Each option comes with its own set of considerations.
+
+<figure>
+<figcaption><p align="center"><small>Figure 1: Select from three levels of form access</small></p>
+</figcaption>
+    <img src="images/chefs-form-access-fig1.png" style="width:100%" alt="Select from three levels of form access">
+</figure>
+<p>&nbsp;</p>
+
+**Public (anonymous)**
+The public option gives anyone access to your from, whether inside or outside government. 
+Choose Public if you want to run an anonymous survey.
+
+Some of the limitations when choosing Public as your access level are:
+* The submitter cannot save their submission to finish later.
+* The submitter cannot share their submission with others before they submit.
+
+**Log-in required**
+Requiring a submitter to log in limits your form to anyone with a **Basic BCeID**, **Business BCeID** or **IDIR** username and password. 
+
+Requiring a log in enables several features for submitters. 
+Submitters can:
+* Save their submission and finish it later.
+* Share their submission with colleagues.
+* Use workflows.
+* Review all their previous submissions. 
+
+Requiring a login has some limitations:
+* You can only select one of the BCeIDs or IDIR; you cannot allow both.
+* Users often find getting a BCeID confusing.
+
+**Specific Team Members**
+
+If you only want a small group of people to access your form, choose **Specific Team Members**. 
+To invite team members:
+
+1. Click **My Forms**.
+2. From your list of forms, click **Manage** for the form you want to update.
+3. Click **Team Management** (Figure 2) on the **Manage Form** page.
+<figure>
+<figcaption><p align="center"><small>Figure 2: Select <strong>Team Management</strong></small></p>
+</figcaption>
+    <img src="images/chefs-form-access-fig2.png" style="width:100%" alt="Select Team Management">
+</figure>
+<p>&nbsp;</p>
+
+4. Under **Team Management**, check the box (Figure 3) in the **Submitter** column for any user in the table you want to have access.
+
+<figure>
+<figcaption><p align="center"><small>Figure 3: Choose **Submitter** to limit form access to a specific team members</small></p>
+</figcaption>
+    <img src="images/chefs-form-access-fig3.png" style="width:100%" alt="Choose Submitter to limit form access to a specific team members">
+</figure>
+<p>&nbsp;</p>
+
+> **Note**: If there is no one on your team list, you will need to add them. [Learn how to add a user to your team](/bcgov/common-hosted-form-service/wiki/Managing-admin-teams#adding-a-new-team-member).
+
+To set the access for a new form:
+1.	Click **Create a New Form**.
+2.	In the **Form Access** section under **Form Settings**, select the appropriate level of access to your form.
+3.	Finish selecting your form settings.
+4.	Click **Continue**.
+
+To update access to an existing form:
+1.	Click **My Forms**.
+2.	From your list of forms, click **Manage** for the form you want to update.
+3.	Click **Edit** (Figure 3) in the **Form Settings** header.
+
+<figure>
+<figcaption><p align="center"><small>Figure 4: Click **Edit** to modify a saved form</small></p>
+</figcaption>
+    <img src="images/chefs-form-access-fig4.png" style="width:100%" alt="Click Edit to modify a saved form">
+</figure>
+<p>&nbsp;</p>
+
+4.	In the **Form Access** section under **Form Settings**, choose the new access level you want to use.
+5.	Click **Update** to accept the change.
+
+
 
 ## Form access types
 
