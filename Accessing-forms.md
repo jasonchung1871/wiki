@@ -11,7 +11,7 @@ Each option comes with its own set of considerations.
 <figure>
 <figcaption><p align="center"><small>Figure 1: Select from three levels of form access</small></p>
 </figcaption>
-    <img src="images/chefs-form-access-fig1.png" alt="Select Team Management">
+    <img src="images/chefs-form-access-fig1.png" width="350" height="305" alt="Select Team Management">
 </figure>
 <p>&nbsp;</p>
 
