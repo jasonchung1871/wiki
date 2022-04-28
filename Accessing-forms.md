@@ -2,6 +2,8 @@ On this page:
 * [Form access types](#form-access-types)
 * [Notify the IDIM team if you are using BCeID](#Notify-the-idim-team-if-you-are-using-bceid)
 
+## To set form access
+
 ## Form access types
 
 A CHEFS form can be configured with the following with 'Form Access' under ‘Form Settings’ on your form management page:
