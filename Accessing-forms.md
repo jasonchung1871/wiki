@@ -9,12 +9,6 @@ You can choose from three levels of access for your form – **Public**, **Log-i
 
 Each option comes with its own set of considerations.
 
-<figure>
-<figcaption><p align="center"><small>Figure 1: Select from three levels of form access</small></p>
-</figcaption>
-    <img src="images/chefs-form-access-fig1.png" alt="Select from three levels of form access">
-</figure>
-<p>&nbsp;</p>
 
 **Public (anonymous)**
 The public option gives anyone access to your from, whether inside or outside government. 
