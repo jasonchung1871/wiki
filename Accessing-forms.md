@@ -12,7 +12,7 @@ Each option comes with its own set of considerations.
 <figure>
 <figcaption><p align="center"><small>Figure 1: Select from three levels of form access</small></p>
 </figcaption>
-    <img src="images/chefs-form-access-fig1.png" style="width:100%" alt="Select from three levels of form access">
+    <img src="images/chefs-form-access-fig1.png" style="width:50%" alt="Select from three levels of form access">
 </figure>
 <p>&nbsp;</p>
 
