@@ -50,7 +50,7 @@ To invite team members:
 <figure>
 <figcaption><p align="center"><small>Figure 2: Select <strong>Team Management</strong></small></p>
 </figcaption>
-    <img src="images/chefs-form-access-fig2.png" style="width:100%" alt="Select Team Management">
+    <img src="images/chefs-form-access-fig2.png" style="width:100%" border="1" alt="Select Team Management">
 </figure>
 <p>&nbsp;</p>
 
