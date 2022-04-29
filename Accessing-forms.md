@@ -1,6 +1,6 @@
 On this page:
 - [To set form access](#to-set-form-access)
-- [Notify the IDIM team if you are using BCeID](#to-use-log-in-required-with-bceid)
+- [To use Log in Required with BCeID](#to-use-log-in-required-with-bceid)
 
 ## To set form access
 
