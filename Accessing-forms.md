@@ -1,6 +1,5 @@
 On this page:
 - [To set form access](#to-set-form-access)
-- [Form access types](#form-access-types)
 - [Notify the IDIM team if you are using BCeID](#notify-the-idim-team-if-you-are-using-bceid)
 
 ## To set form access
@@ -88,22 +87,23 @@ To update access to an existing form:
 
 ## Notify the IDIM team if you are using BCeID
 
-If you decide to use the **'Log-in Required - Basic BCeID'** setting for your form access, you must notify the Identity Information Management (IDIM) team by email (IDIM.Consulting@gov.bc.ca). They need to know which applications are using the BCeID service and allocate appropriate resources. You should provide them the following in your notification:
+If you decide to use **Basic BCeID** of **Business BCeID** for your form access, you must notify the Identity Information Management (IDIM) team by email (IDIM.Consulting@gov.bc.ca). They need to know which applications are using the BCeID service and allocate appropriate resources. 
+You should provide them the following in your notification:
 
 * Program area or initiative that owns the CHEFS form
 * Contact Email address
 * Estimate of how many submissions the form may receive per year
 
-There are a few steps that IDIM will follow up and work with you on including a self-assessment and a signed Service Agreement:
+There are a few steps that IDIM will follow up and work with you on including a self-assessment and a signed service agreement:
 
-*	Submission of a BCeID onboarding self assessment to IDIM.Consulting@gov.bc.ca ( Client responsibility ) 
-*	Participation in Client | BCeID onboarding kickoff meeting ( Joint Client | IDIM responsibility ) 
-*	Client Supplementary Service added to Schedule B of the CHEFS Service Agreement ( Joint Client | IDIM responsibility) 
-*	Review & Signoff of Updated Service Agreement(s) (Client responsibility) 
-*	Creation of Online Service Directory (OSD) entries in BCeID application as part of your audit record (Client responsibility) 
-*	Submission of your project’s communications / invitations to the Public (that mention BCeID) submitted to IDIM.Consulting@gov.bc.ca for review & signoff (Client responsibility) 
-*	Notify IDIM Consulting what your target Production Go-Live | BCeID account First Users date is - (please notify them if previously disclosed dates are moved or changed) (Client responsibility) 
-*	Provide estimates of BCeID end user account volumes (by BCeID account type) a) at launch and b) after the first year of operation - (please notify them if previously disclosed end user BCeID account volumes change) (Client responsibility) 
+* Submission of a BCeID onboarding self assessment to IDIM.Consulting@gov.bc.ca ( Client responsibility ) 
+* Participation in Client | BCeID onboarding kickoff meeting ( Joint Client | IDIM responsibility ) 
+* Client Supplementary Service added to Schedule B of the CHEFS Service Agreement ( Joint Client | IDIM responsibility) 
+* Review and sign-off of Updated Service Agreement(s) (Client responsibility) 
+* Creation of Online Service Directory (OSD) entries in BCeID application as part of your audit record (Client responsibility) 
+* Submission of your project’s communications / invitations to the Public (that mention BCeID) submitted to IDIM.Consulting@gov.bc.ca for review and sign-off (Client responsibility) 
+* Notify IDIM Consulting what your target Production Go-Live | BCeID account First Users date is - (please notify them if previously disclosed dates are moved or changed) (Client responsibility) 
+* Provide estimates of BCeID end user account volumes (by BCeID account type) a) at launch and b) after the first year of operation - (please notify them if previously disclosed end user BCeID account volumes change) (Client responsibility) 
 
 Additional forms created for a similar purpose and similar customer base may not have to go past the self-assessment step but IDIM Consulting will advise you on that. 
  
