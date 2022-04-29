@@ -59,7 +59,7 @@ To invite team members:
 <figure>
 <figcaption><p align="center"><small>Figure 3: Choose **Submitter** to limit form access to a specific team members</small></p>
 </figcaption>
-    <img src="images/chefs-form-access-fig3.png" style="width:100%" alt="Choose Submitter to limit form access to a specific team members">
+    <kbd><img src="images/chefs-form-access-fig3.png" style="width:100%" alt="Choose Submitter to limit form access to a specific team members"></kbd>
 </figure>
 <p>&nbsp;</p>
 
@@ -79,7 +79,7 @@ To update access to an existing form:
 <figure>
 <figcaption><p align="center"><small>Figure 4: Click **Edit** to modify a saved form</small></p>
 </figcaption>
-    <img src="images/chefs-form-access-fig4.png" style="width:100%" alt="Click Edit to modify a saved form">
+    <kbd><img src="images/chefs-form-access-fig4.png" style="width:100%" alt="Click Edit to modify a saved form"></kbd>
 </figure>
 <p>&nbsp;</p>
 
