@@ -16,6 +16,7 @@ Each option comes with its own set of considerations.
 <p>&nbsp;</p>
 
 **Public (anonymous)**
+
 The public option gives anyone access to your from, whether inside or outside government. 
 Choose Public if you want to run an anonymous survey.
 
@@ -24,6 +25,7 @@ Some of the limitations when choosing Public as your access level are:
 * The submitter cannot share their submission with others before they submit.
 
 **Log-in required**
+
 Requiring a submitter to log in limits your form to anyone with a **Basic BCeID**, **Business BCeID** or **IDIR** username and password. 
 
 Requiring a log in enables several features for submitters. 
