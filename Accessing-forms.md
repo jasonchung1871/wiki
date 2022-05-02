@@ -87,7 +87,7 @@ To update access to an existing form:
 
 ## To use Log in Required with BCeID
 
-If you decide to use **Basic BCeID** of **Business BCeID** for your form access, you must notify the Identity Information Management (IDIM) team by email (IDIM.Consulting@gov.bc.ca). They need to know which applications are using the BCeID service and allocate appropriate resources. 
+If you decide to use **Basic BCeID** or **Business BCeID** for your form access, you must notify the Identity Information Management (IDIM) team by email (IDIM.Consulting@gov.bc.ca). They need to know which forms are using the BCeID service and allocate appropriate resources. 
 You should provide them the following in your notification:
 
 * Program area or initiative that owns the CHEFS form
