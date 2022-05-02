@@ -56,7 +56,7 @@ To invite team members:
 4. Under **Team Management**, check the box (Figure 3) in the **Submitter** column for any user in the table you want to have access.
 
 <figure>
-<figcaption><p align="center"><small>Figure 3: Choose **Submitter** to limit form access to a specific team members</small></p>
+<figcaption><p align="center"><small>Figure 3: Choose <strong>Submitter</strong> to limit form access to a specific team members</small></p>
 </figcaption>
     <kbd><img src="images/chefs-form-access-fig3.png" style="width:100%" alt="Choose Submitter to limit form access to a specific team members"></kbd>
 </figure>
@@ -76,7 +76,7 @@ To update access to an existing form:
 3.	Click **Edit** (Figure 3) in the **Form Settings** header.
 
 <figure>
-<figcaption><p align="center"><small>Figure 4: Click **Edit** to modify a saved form</small></p>
+<figcaption><p align="center"><small>Figure 4: Click <strong>Edit</strong> to modify a saved form</small></p>
 </figcaption>
     <kbd><img src="images/chefs-form-access-fig4.png" style="width:100%" alt="Click Edit to modify a saved form"></kbd>
 </figure>
