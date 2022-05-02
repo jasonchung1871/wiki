@@ -109,7 +109,7 @@ Once you’ve created a form, make sure you save your design. To save your form 
 
 ![Save your Design](images/save.png)
 
-Once you **save **the form, you will see this alert banner. You can preview your form or publish the form.
+Once you save the form, you will see this alert banner. You can preview your form or publish the form.
 
 ![Save your Design](images/save_draft.png)
 
