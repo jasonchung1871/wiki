@@ -26,13 +26,13 @@ The name you provide here will show above the form.
 
 ## Form structure
 
-A form is made up of ‘components.’ For example: input fields, checkboxes or text boxes. You can drag and drop these components from the left column onto your form.
+A form is made up of components. For example: input fields, checkboxes or text boxes. You can drag and drop these components from the left column onto your form.
 
 ![Form Structure](images/form_structure.png)
 
 # Basic and advanced components
 
-Advanced components have more configuration options that the basic fields (for example: advanced conditional logic). Having JavaScript and programming experience when using advanced components.
+Advanced components have more configuration options than the basic fields (for example: advanced conditional logic). Having JavaScript and programming experience when using advanced components.
 
 ![Form Structure](images/basic_advanced.png)
 
@@ -42,7 +42,7 @@ When you drag a text field onto the form you will see this dialog screen.
 
 ![Text Field](images/text_field.png)
 
-**Note**: The form builder has specific components for **‘email’**, **‘phone’** or **‘number’** form fields. They look like the standard ‘text’ field, but the validation rules and appearance are slightly different and will help ensure the data you collect is in the right format.
+**Note**: The form builder has specific components for **Email’**, **Phone** or **Number** form fields. They look like the standard ‘text’ field, but the validation rules and appearance are slightly different and will help ensure the data you collect is in the right format.
 
 ![Custom Text Fields for Phone, Email and more](images/note.png)
 
