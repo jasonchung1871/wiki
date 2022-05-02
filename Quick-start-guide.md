@@ -32,7 +32,7 @@ A form is made up of components. For example: input fields, checkboxes or text b
 
 # Basic and advanced components
 
-Advanced components have more configuration options than the basic fields (for example: advanced conditional logic). Having JavaScript and programming experience when using advanced components.
+Advanced components have more configuration options than the basic fields (for example: advanced conditional logic). Having JavaScript programming experience will help when trying to take full-advantage of using advanced components.
 
 ![Form Structure](images/basic_advanced.png)
 
