@@ -47,9 +47,9 @@ We have created some examples of features you might want to use in your forms. F
 
 
 <tr>
-<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=66c7918f-aa60-4095-8dfb-36b3002b4d47>Calculations in a Data Grid</a></td>
+<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=66c7918f-aa60-4095-8dfb-36b3002b4d47">Calculations in a Data Grid</a></td>
 <td>
-<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/chefs_support_-_calculations_in_datagrid_complex_form_example_schema.json</a>
+<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/chefs_support_-_calculations_in_datagrid_complex_form_example_schema.json">chefs_support_-_calculations_in_datagrid_complex_form_example_schema.json</a>
 </td>
 </tr>
 
