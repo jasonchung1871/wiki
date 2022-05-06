@@ -85,6 +85,7 @@ Other Improvements
 * [x] Submitters are notified on status updates including completion
 * [x] Authentication with Business BCeID
 * [x] Added undo/re-do to the Form Designer
+* [x] CHEFS Admins can change form owners
 * [ ] Technical Debt - confirm load and performance capability
 * [ ] Integrate with COMS for file uploads
 * [ ] Submitters can download multiple submissions at once and attach a template permanently
