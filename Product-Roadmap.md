@@ -86,12 +86,19 @@ Other Improvements
 * [x] Authentication with Business BCeID
 * [x] Added undo/re-do to the Form Designer
 * [ ] Technical Debt - confirm load and performance capability
-* [ ] Include fields in email notifications
 * [ ] Integrate with COMS for file uploads
-
-## vx.x - Potential Future Plans
-
 * [ ] Submitters can download multiple submissions at once and attach a template permanently
+
+## vx.x - Looking at next....
+
+* [ ] Include fields in email notifications
 * [ ] Custom spatial form component
 * [ ] Filter list of submissions with the API
-* [ ] Analysis/BI
+* [ ] Analytics/BI
+* [ ] View submission versions
+* [ ] Show notes in exported submissions
+* [ ] Improve developer documentation
+* [ ] Auto-save a form during build
+* [ ] Virus scan file uploads; possibly then allow public forms to allow file uploads
+* [ ] Improve the Submissions View
+
