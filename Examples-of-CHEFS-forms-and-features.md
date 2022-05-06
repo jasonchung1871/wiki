@@ -39,6 +39,13 @@ We have created some examples of features you might want to use in your forms. F
 </tr>
 
 <tr>
+<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=4ee726e0-f7a7-49a1-8454-7325d2593a7d">Dynamic select lists example</a></td>
+<td>
+<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example__dynamic_select_lists_schema.json">example__dynamic_select_lists_schema.json</a>
+</td>
+</tr>
+
+<tr>
 <td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=858a4aba-7e7b-4019-80c1-78a414ee5129">Calculated values example</a></td>
 <td>
 <a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example__calculated_values_schema.json">example_calculated_values_schema.json</a>
@@ -47,18 +54,9 @@ We have created some examples of features you might want to use in your forms. F
 
 
 <tr>
-<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=66c7918f-aa60-4095-8dfb-36b3002b4d47">Calculations in a Data Grid</a></td>
+<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=66c7918f-aa60-4095-8dfb-36b3002b4d47">Calculations in a Data Grid example</a></td>
 <td>
-<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/chefs_support_-_calculations_in_datagrid_complex_form_example_schema.json">chefs_support_-_calculations_in_datagrid_complex_form_example_schema.json</a>
-</td>
-</tr>
-
-
-
-<tr>
-<td><a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=4ee726e0-f7a7-49a1-8454-7325d2593a7d">Dynamic select lists example</a></td>
-<td>
-<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example__dynamic_select_lists_schema.json">example__dynamic_select_lists_schema.json</a>
+<a href="https://github.com/bcgov/common-hosted-form-service/wiki/examples/example__calculations_in_datagrid_schema.json">example__calculations_in_datagrid_schema.json</a>
 </td>
 </tr>
 
