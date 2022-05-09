@@ -23,7 +23,7 @@
   - [Undo or redo a change](To-undo-or-redo-a-change)
   - [Workflows & statuses](Workflows-and-Statuses)
 - [Accessing and managing data](Accessing-and-managing-data)
-  - [Connecting to CHEFS API](Connecting-to-the-CHEFS-API)
+  - [Populating a form design with External Data](Connecting-to-the-CHEFS-API)
   - [Generating API keys](Generating-API-Keys)
   - [Importing data into CHEFS](importing-data-into-chefs)
   - [Offline mode](Offline-mode)
