@@ -16,6 +16,11 @@
 </td>
 <td>&nbsp;</td>
 </tr>
+<tr>
+<td> <a href="https://chefs.nrs.gov.bc.ca/app/form/submit?f=66c7918f-aa60-4095-8dfb-36b3002b4d47">Example | Calculations in Data Grid</a></td>
+<td><a href="https://github.com/bcgov/common-hosted-form-service/wiki/Calculated-Values">Calculated values</a>, <a href="Repeating-Data-Grids">Repeating data grids</a>, <a href="Dynamic-Select-Lists">Dynamic select lists</a>, Date and time</td>
+<td></td>
+</tr>
 </table>
 
 <p>Is your form taking advantage of CHEFS more advanced features? Or are you using it to collect a lot of different data? If you are interested in sharing your form with the broader community, send us an export of your form and the URL so others can check it out. You can send your files to <a href="mailto:"NR.CommonServiceShowcase@gov.bc.ca">NR.CommonServiceShowcase@gov.bc.ca</a>.</p>
