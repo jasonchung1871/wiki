@@ -88,7 +88,7 @@ Other Improvements
 * [x] CHEFS Admins can change form owners
 * [ ] Technical Debt - confirm load and performance capability
 * [ ] Integrate with COMS for file uploads
-* [ ] Submitters can download multiple submissions at once and attach a template permanently
+* [ ] Reviewers can download multiple submissions at once and attach a template permanently
 
 ## vx.x - Looking at next....
 
