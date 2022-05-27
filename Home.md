@@ -25,10 +25,9 @@ A user-friendly, hosted service for teams to create and publish their own web fo
 [Learn more about the CHEFS features](Overview)
 
 ## Getting started and support
-To start creating forms, you can follow our quick start guide. For more advanced questions CHEFS, please review our:
+To start creating forms, you can [watch a series of short videos](https://trainingmodules.nrs.gov.bc.ca/Provincial/IIT/CHEFSquickstart) on how to build your first form, or follow our [Quick start guide](Quick-Start-Guide). For more advanced questions CHEFS, please review our:
 
 * [Creating forms](Creating-forms) - learn about some of the different features in CHEFS
-* [Quick start guide](Quick-Start-Guide) - get started building a simple form
 * [Training Video](https://www.youtube.com/watch?v=Wf432lBjcTA) - Watch an hour-long tutorial on how to use CHEFS. Note: We have updated CHEFS since May 2021. Follow our [Product road map](Product-roadmap) to stay up-to-date on all feature updates.
 * If you want to host your own version of CHEFS, please follow our [CHEFS ReadMe](https://github.com/bcgov/common-hosted-form-service/blob/master/README.md)
 * Join our [CHEFS Teams community channel](https://teams.microsoft.com/l/channel/19%3a34b9d4b4deb54eebaa9be8bc1ccf02f7%40thread.tacv2/CHEFS?groupId=bef8086f-20c7-43a4-bd07-29ce764e818c&tenantId=6fdb5200-3d0d-4a8a-b036-d3685e359adc)
