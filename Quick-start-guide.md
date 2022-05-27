@@ -1,7 +1,8 @@
-> Are you building your first form?
-> You can now watch a [quick series of videos](https://trainingmodules.nrs.gov.bc.ca/Provincial/IIT/CHEFSquickstart/) on how to get started.
-
 Follow this guide if you want to learn how to quickly get started building forms.  You will require an IDIR attached to a valid email address to connect.
+
+> Are you building your first form?
+
+> You can now watch our [video series](https://trainingmodules.nrs.gov.bc.ca/Provincial/IIT/CHEFSquickstart/) on how to get started.
 
 **On this page:**
 * [Form settings](#form-settings)
