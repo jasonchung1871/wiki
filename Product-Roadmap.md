@@ -87,7 +87,7 @@ Other Improvements
 * [x] Added undo/re-do to the Form Designer
 * [x] CHEFS Admins can change form owners
 * [ ] Technical Debt - confirm load and performance capability
-* [ ] Integrate with COMS for file uploads
+* [ ] Integrate with COMS for file uploads and to allow access to attachments via the API
 * [ ] Reviewers can download multiple submissions at once and attach a template permanently
 
 ## vx.x - Looking at next....
@@ -102,4 +102,6 @@ Other Improvements
 * [ ] Auto-save a form during build
 * [ ] Virus scan file uploads; possibly then allow public forms to allow file uploads
 * [ ] Improve the Submissions View
+* [ ] Multi authentication methods (ie both Business BceId and IDIR??) 
+* [ ] Pre-populate forms with idir or bceid information??
 
