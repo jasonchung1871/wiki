@@ -86,12 +86,13 @@ Other Improvements
 * [x] Authentication with Business BCeID
 * [x] Added undo/re-do to the Form Designer
 * [x] CHEFS Admins can change form owners
-* [ ] Technical Debt - confirm load and performance capability
+* [x] Technical Debt - confirm load and performance capability
 * [ ] Integrate with COMS for file uploads and to allow access to attachments via the API
 * [ ] Reviewers can download multiple submissions at once and attach a template permanently
 
 ## vx.x - Looking at next....
 
+* [ ] Collaborate with CITZ team to architect as a government wide solution
 * [ ] Include fields in email notifications
 * [ ] Custom spatial form component
 * [ ] Filter list of submissions with the API
