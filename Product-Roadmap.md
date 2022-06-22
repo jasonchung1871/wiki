@@ -88,21 +88,22 @@ Other Improvements
 * [x] CHEFS Admins can change form owners
 * [x] Technical Debt - confirm load and performance capability
 * [ ] Integrate with COMS for file uploads and to allow access to attachments via the API
-* [ ] Reviewers can download multiple submissions at once and attach a template permanently
-
-## vx.x - Looking at next....
-
 * [ ] Collaborate with CITZ team to architect as a government wide solution
+* [ ] Show notes in exported submissions via API
+* [ ] Improve the Submissions View
+* [ ] Add time to date range parameter for exporting submissions
+
+
+## vx.x - Future plans....
+
+* [ ] Reviewers can download multiple submissions at once and attach a template permanently
 * [ ] Include fields in email notifications
 * [ ] Custom spatial form component
 * [ ] Filter list of submissions with the API
 * [ ] Analytics/BI
 * [ ] View submission versions
-* [ ] Show notes in exported submissions
-* [ ] Improve developer documentation
 * [ ] Auto-save a form during build
 * [ ] Virus scan file uploads; possibly then allow public forms to allow file uploads
-* [ ] Improve the Submissions View
 * [ ] Multi authentication methods (ie both Business BceId and IDIR??) 
 * [ ] Pre-populate forms with idir or bceid information??
 
