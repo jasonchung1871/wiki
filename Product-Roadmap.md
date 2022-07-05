@@ -87,6 +87,8 @@ Other Improvements
 * [x] Added undo/re-do to the Form Designer
 * [x] CHEFS Admins can change form owners
 * [x] Technical Debt - confirm load and performance capability
+* [x] Remove "manage forms" gear for submitters to avoid unnecessary errors
+* [x] Fix file upload timeout issue
 * [ ] Integrate with COMS for file uploads and to allow access to attachments via the API
 * [ ] Collaborate with CITZ team to architect as a government wide solution
 * [ ] Show notes in exported submissions via API
