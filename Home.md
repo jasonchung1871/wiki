@@ -1,7 +1,3 @@
->**ⓘ Please Note**<br><br>
->There is a current limitation with the CHEFS file upload tool. At the moment, users have to attach any file within the first five minutes of logging into your form. Otherwise, they may experience issues submitting their data. <br><br>
->We are investigating how to resolve this issue.
-
 [Common Hosted Form Service (CHEFS)](https://chefs.nrs.gov.bc.ca/app/) is a web-based application for creating web forms and managing collected data
 
 **On this page:**
