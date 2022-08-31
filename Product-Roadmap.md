@@ -90,7 +90,7 @@ Other Improvements
 * [x] Remove "manage forms" gear for submitters to avoid unnecessary errors
 * [x] Fix file upload timeout issue
 * [ ] Integrate with COMS for file uploads and to allow access to attachments via the API
-* [ ] Collaborate with CITZ team to architect as a government wide solution
+* [ ] Collaborate with CITZ team to transfer ownership to them as a government wide solution
 * [ ] Show notes in exported submissions via API
 * [ ] Improve the Submissions View
 * [ ] Add time to date range parameter for exporting submissions
