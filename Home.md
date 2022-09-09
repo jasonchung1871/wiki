@@ -45,4 +45,4 @@ If you or your team is interested in contributing to the project. You can fork o
 Do you have a feature request for CHEFS? Post your ideas, leave a comment or vote on our [Fider board](https://chefs-fider.apps.silver.devops.gov.bc.ca/). Your participation will help us decided on what to build next.
 
 ## Contact us
-You also can reach out to the CHEFS team directly at [submit.digital@gov.bc.ca](mailto:submit.digital@gov.bc.ca){:target="_blank"}.
+You also can reach out to the CHEFS team directly at [submit.digital@gov.bc.ca](mailto:submit.digital@gov.bc.ca).
