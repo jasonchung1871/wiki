@@ -1,1 +1,1 @@
-* Local chefs setup
+* Local CHEFS Instance Setup
