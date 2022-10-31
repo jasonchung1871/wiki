@@ -18,3 +18,43 @@ This page has an intended audience of developers and other technical team member
 4. Navigate to the [CSS](https://bcgov.github.io/sso-requests) page, login with your IDIR, and download the ‘Development’ Installation JSON from your SSO Integration. 
 5. Back in the `realm-export.json` file, search for `YYYYYYYYYYYY` and replace it with the **resource** you obtained from the downloaded JSON file. Search for `ZZZZZZZZZZZZ` and replace it with the **secret**.
 
+[Click here to download chefs_build.zip](https://api.media.atlassian.com/file/dce82925-cfbd-4bac-8b22-b245dd188d2e/binary?client=5b2c3105-a87a-4395-a5fc-204b3ef786d8&collection=contentId-962166785&dl=true&max-age=2592000&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI1YjJjMzEwNS1hODdhLTQzOTUtYTVmYy0yMDRiM2VmNzg2ZDgiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC05NjIxNjY3ODUiOlsicmVhZCJdfSwiZXhwIjoxNjY3MjM2MzA4LCJuYmYiOjE2NjcyMzM0Mjh9.ddNwfWeUNfWXHAzJInEowpNqAAfZRhYCP3aFuDoxCmo)
+
+[Click here to download local.json](https://api.media.atlassian.com/file/9f568054-0ec6-43c6-a88f-53d8c74036fa/binary?client=5b2c3105-a87a-4395-a5fc-204b3ef786d8&collection=contentId-962166785&dl=true&max-age=2592000&token=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiI1YjJjMzEwNS1hODdhLTQzOTUtYTVmYy0yMDRiM2VmNzg2ZDgiLCJhY2Nlc3MiOnsidXJuOmZpbGVzdG9yZTpjb2xsZWN0aW9uOmNvbnRlbnRJZC05NjIxNjY3ODUiOlsicmVhZCJdfSwiZXhwIjoxNjY3MjM2MzA4LCJuYmYiOjE2NjcyMzM0Mjh9.ddNwfWeUNfWXHAzJInEowpNqAAfZRhYCP3aFuDoxCmo)
+
+[Or download the files from our Confluence page](https://bcdevex.atlassian.net/wiki/spaces/CCP/pages/962166785/Local+CHEFS+Instance+Setup)
+
+All the files are now configured and you can run Keycloak and PostgreSQL.
+
+Note that `realm-export.json` is configured with the SSO integration for the “Development” environment, and will only work with the **resource** and **secret** from the Development JSON.
+
+***
+
+# Build
+
+1. Start Docker, open a terminal in the `/chefs_build` directory, and run the following command:
+
+```bash
+docker compose up
+```
+This will start up an instance for your Keycloak and PostgreSQL containers. If you don’t want to keep the terminal open, you can append a `-d` to the end of the command above.
+
+2. Next, open a terminal in the directory `/common-hosted-form-service/app` and run the following commands:
+```bash
+npm install
+npm run migrate
+npm run seed:run
+npm run serve
+```
+This will start the process for the CHEFS API.
+
+3. Open another terminal in the directory /common-hosted-form-service/app/frontend and run the following commands:
+```bash
+npm install
+npm run serve
+```
+This will start the process for the CHEFS front end.
+
+***
+
+View the [additional resources](https://bcdevex.atlassian.net/wiki/spaces/CCP/pages/1002012675) page for troubleshooting common errors.
