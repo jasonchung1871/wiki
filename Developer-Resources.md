@@ -1,1 +1,1 @@
-* Local CHEFS Instance Setup
+* [Local CHEFS Instance Setup](https://github.com/bcgov/common-hosted-form-service/wiki/Local-CHEFS-Instance-Setup)
