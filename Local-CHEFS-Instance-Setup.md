@@ -11,9 +11,11 @@ Ensure that [Docker](https://www.docker.com/get-started/) is installed on your l
 
 # Setup
 
-Start by cloning the [CHEFS source code](https://github.com/bcgov/common-hosted-form-service) onto your local machine and download `build_package.zip`. Unzip the file and move the `local.json` file such that the CHEFS directory structure follows `/common-hosted-form-service/app/config/local.json`
+Start by cloning the [CHEFS source code](https://github.com/bcgov/common-hosted-form-service) onto your local machine and download `build_package.zip` linked below.
 
-The `chefs_build` directory contains the directory structure and docker file for building CHEFS.
+[build_package.zip](https://github.com/bcgov/common-hosted-form-service/files/9973552/build_package.zip)
+
+Unzip the file and move the `local.json` file such that the CHEFS directory structure follows `/common-hosted-form-service/app/config/local.json` .The `chefs_build` directory contains the directory structure and docker file for building CHEFS.
 
 Open `realm-export.json`  located at `chefs_build/docker/imports/keycloak` and search for `XXXXXXXXXXXX`. This value must match the `clientSecret` value in `local.json` so that the CHEFS API can connect to your Keycloak instance. By default, these are set to be equal and don’t need to be altered.
 
@@ -21,15 +23,12 @@ Navigate to the [CSS](https://bcgov.github.io/sso-requests) page, log in with yo
 
 Back in the `realm-export.json` file, search for `YYYYYYYYYYYY` and replace it with the resource you obtained from the downloaded JSON file. Search for `ZZZZZZZZZZZZ` and replace it with the secret. 
 
-[build_package.zip](https://github.com/bcgov/common-hosted-form-service/files/9973552/build_package.zip)
-
 All the files are now configured and you can run Keycloak and PostgreSQL. 
 
 Note that realm-export.json is configured with the SSO integration for the “Development” environment, and will only work with the resource and secret from the Development JSON. 
 
 # Build
 Start Docker, open a terminal in the `/chefs_build` directory, and run the following command:
-
 
     docker compose up
 
@@ -41,6 +40,7 @@ Next, open a terminal in the directory `/common-hosted-form-service/app` and run
     npm run migrate
     npm run seed:run
     npm run serve
+
 This will start the process for the CHEFS API.
 
 Open another terminal in the directory `/common-hosted-form-service/app/frontend` and run the following commands:
