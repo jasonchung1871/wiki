@@ -11,3 +11,4 @@
   - [Repeating data grids](Repeating-Data-Grids)
   - [Styles](Styles) - changing the appearance of your form
   - [Workflows & Statuses](Workflows-&-Statuses) - you can assign a form to a team member for review, send it back to the submitter or mark it as complete
+  - [Restoring a deleted submission](Restoring-a-deleted-submission) - you can restore a submission you have deleted
