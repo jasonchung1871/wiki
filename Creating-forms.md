@@ -14,3 +14,4 @@
   - [Restoring a deleted submission](Restoring-a-deleted-submission) - you can restore a submission you have deleted
   - [Tooltip](Tooltip) - add a tooltip or create a custom tooltip using HTML
   - [Navigation Buttons](Navigation-Buttons) - create navigation buttons to switch tabs within a form
+  - [Progress Bar](Progress-Bar) - create a simple progress bar to track form progress across tabs
