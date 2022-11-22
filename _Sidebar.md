@@ -23,6 +23,7 @@
   - [Undo or redo a change](To-undo-or-redo-a-change)
   - [Workflows & statuses](Workflows-and-Statuses)
   - [Restoring a deleted submission](Restoring-a-deleted-submission)
+  - [Tooltip](Tooltip)
 - [Accessing and managing data](Accessing-and-managing-data)
   - [Populating a form design with External Data](Populating-a-form-design-with-External-Data)
   - [Generating API keys](Generating-API-Keys)
