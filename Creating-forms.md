@@ -1,4 +1,5 @@
   - [Quick Start Guide](Quick-Start-Guide) - learn how to create a basic form
+  - [Side Menu Bar](Side-Menu-Buttons) - learn how to use the menu bar
   - [Printing from a browser](Printing-from-a-browser) - options for printing your form results
   - [Calculated Values](Calculated-Values) - use the entered results from one form filed to populate another 
   - [CDOGS Template Upload](CDOGS-Template-Upload) - how to combine our document and form services
