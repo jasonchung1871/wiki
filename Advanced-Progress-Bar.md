@@ -188,11 +188,88 @@ function validateFacilityInformationTabComponents() {
 
 ![ap18](https://user-images.githubusercontent.com/91633223/204039128-02c813c2-96ed-411c-9c5d-3afd465e0a6e.png)
 
-Note:
+> **Note**
 
-1. Change the ‘data' in the `root.getComponent('data')` to the name you entered in the “label” field of the Tab Component in Step 13
+> Change the ‘data' in the `root.getComponent('data')` to the name you entered in the “label” field of the Tab Component in Step 13
 
+> ```
+> const comp = root ? root.getComponent('data') : null;
+> ```
 
+> Change the 'healthStepper' in the `document.querySelectorAll(".healthStepper ol li")` to the name you enter in the “CSS Class“ field in Step 2
+
+> ```
+> const progressStepper = document.querySelectorAll(".healthStepper ol li");
+> ```
+
+> In this demo, we are only validating two input components in the first tab of the TabComponent which is why the line of code if the index is equal to zero `if(i===0){`
+
+> The lines of codes below read the two input components in the first tab of the TabComponent and execute a validity check on them. See Step 2 for reference.
+
+> ```
+> function validateFacilityInformationTabComponents() {
+>   const firstNameComp = root.getComponent('firstName');
+>   const lastNameComp = root.getComponent('lastName');
+>   let isAllFieldValue = true;
+>   isAllFieldValue = firstNameComp.checkValidity();
+>   isAllFieldValue = lastNameComp.checkValidity();
+>   return isAllFieldValue;
+> }
+> ```
+
+**Step 21**: Drag the button component to the builder, and change the label to “Next“. Under “Action“, click the dropdown and change select “Custom“
+
+![ap19](https://user-images.githubusercontent.com/91633223/204052448-b8a9fe3d-e9c3-4efc-adef-35ad52b8b8e3.png)
+
+> **Note**
+
+> Change the ‘data' in the `form.getComponent('data')` to the name you entered in the “label” field of the TabComponent in Step 13
+
+> ```
+> const tab = form.getComponent('data');
+> ``` 
+
+> Change the 'healthStepper' in the `document.querySelectorAll(".healthStepper ol li")` to the name you entered in the “CSS Class“ field in Step 2
+
+> ```
+> const progressStepper = document.querySelectorAll(".healthStepper ol li");
+> ```
+
+**Step 23**: Drag a button component to the builder, and change the label to “Previous“. Under “Action“, click the dropdown and change select “Custom“
+
+![a21](https://user-images.githubusercontent.com/91633223/204052841-c20c6ce8-e8f1-4590-8954-509cb3887ff5.png)
+
+**Step 24**: Copy the following code into “Button Custom Logic“ field
+
+```
+const tab = form.getComponent('data');
+const progressStepper = document.querySelectorAll(".healthStepper ol li");
+const index = tab.currentTab;
+progressStepper[index].classList.remove('errors');
+progressStepper[index].classList.remove('completed');
+progressStepper[index].classList.remove('active');
+progressStepper[index].classList.add('disabled');
+progressStepper[(index-1)].classList.add('active');
+progressStepper[(index-1)].classList.remove('errors');
+progressStepper[(index-1)].classList.remove('completed');
+tab.setTab((index-1));
+```
+
+![a22](https://user-images.githubusercontent.com/91633223/204052933-d84f6398-6a5f-437c-b17a-30401f9b34fc.png)
+
+> **Note**
+
+> Change the ‘data' in the `form.getComponent('data')` to the name you entered in the “label” field of the TabComponent in Step 13
+
+> ```
+> const tab = form.getComponent('data');
+> ``` 
+
+> Change the 'healthStepper' in the `document.querySelectorAll(".healthStepper ol li")` to the name you entered in the “CSS Class“ field in Step 2
+
+> ```
+> const progressStepper = document.querySelectorAll(".healthStepper ol li");
+> ```
 
 ---
 
@@ -201,5 +278,44 @@ Note:
 This Progress Bar is designed to work with any layout component and with the Next and Previous Buttons. Its functionality has been developed almost similarly to Formio Wizard.  You switch between each layout using the Previous and Next buttons. It uses the `hide` attribute of each layout by setting it to true or false and using the triggerRedraw function to redraw the component to the screen.
 
 ![ap2](https://user-images.githubusercontent.com/91633223/204036962-61c5845e-366f-4caf-8a6b-99b8e9f12196.png)
+
+Step 22: Copy the following code into “Button Custom Logic“ field
+
+```
+const tab = form.getComponent('data');
+form.setPristine(false);
+const index = tab.currentTab;
+const progressStepper = document.querySelectorAll(".healthStepper ol li");
+progressStepper[index].classList.remove('active');
+progressStepper[index].classList.remove('disabled');
+
+if(index===0) {
+  if(!validateFacilityInformationTabComponents()) {
+    progressStepper[index].classList.remove('completed');
+    progressStepper[index].classList.add('errors');
+  } else {
+    progressStepper[index].classList.remove('errors');
+    progressStepper[index].classList.add('completed');
+  }
+}
+
+progressStepper[(index+1)].classList.add('active');
+progressStepper[(index+1)].classList.remove('disabled');
+progressStepper[(index+1)].classList.remove('errors');
+progressStepper[(index+1)].classList.remove('completed');
+tab.setTab((index+1)); 
+
+
+function validateFacilityInformationTabComponents() {
+  const firstNameComp = form.getComponent('firstName');
+  const lastNameComp = form.getComponent('lastName');
+  let isAllFieldValue = true;
+  isAllFieldValue = firstNameComp.checkValidity();
+  isAllFieldValue = lastNameComp.checkValidity();
+  return isAllFieldValue;
+}
+```
+
+![ap20](https://user-images.githubusercontent.com/91633223/204052521-50dcdf1b-ec0c-4f17-82f7-bd524ac7c5b1.png)
 
 
