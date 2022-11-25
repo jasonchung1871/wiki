@@ -28,6 +28,7 @@
   - [Navigation Buttons](Navigation-Buttons)
   - [Progress Bar](Progress-Bar)
   - [Side Menu Buttons](Side-Menu-Buttons)
+  - [View my submissions](View-my-submissions)
 - [Accessing and managing data](Accessing-and-managing-data)
   - [Populating a form design with External Data](Populating-a-form-design-with-External-Data)
   - [Generating API keys](Generating-API-Keys)
