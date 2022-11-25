@@ -16,3 +16,5 @@
   - [Tooltip](Tooltip) - add a tooltip or create a custom tooltip using HTML
   - [Navigation Buttons](Navigation-Buttons) - create navigation buttons to switch tabs within a form
   - [Progress Bar](Progress-Bar) - create a simple progress bar to track form progress across tabs
+  - [Side Menu Buttons](Side-Menu-Buttons) - how to use the side menu buttons in the form designer
+  - [View my submissions](View-my-submissions) - how to view your own submissions for a form
