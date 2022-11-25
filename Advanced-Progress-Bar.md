@@ -188,7 +188,9 @@ function validateFacilityInformationTabComponents() {
 
 ![ap18](https://user-images.githubusercontent.com/91633223/204039128-02c813c2-96ed-411c-9c5d-3afd465e0a6e.png)
 
+Note:
 
+1. Change the ‘data' in the `root.getComponent('data')` to the name you entered in the “label” field of the Tab Component in Step 13
 
 
 
