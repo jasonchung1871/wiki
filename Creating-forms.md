@@ -1,4 +1,5 @@
   - [Quick Start Guide](Quick-Start-Guide) - learn how to create a basic form
+  - [Using the Menu Bar](Side-Menu-Buttons) - how to use the side menu buttons in the form designer
   - [Printing from a browser](Printing-from-a-browser) - options for printing your form results
   - [Calculated Values](Calculated-Values) - use the entered results from one form filed to populate another 
   - [CDOGS Template Upload](CDOGS-Template-Upload) - how to combine our document and form services
@@ -15,5 +16,4 @@
   - [Tooltip](Tooltip) - add a tooltip or create a custom tooltip using HTML
   - [Navigation Buttons](Navigation-Buttons) - create navigation buttons to switch tabs within a form
   - [Progress Bar](Progress-Bar) - create a simple progress bar to track form progress across tabs
-  - [Side Menu Buttons](Side-Menu-Buttons) - how to use the side menu buttons in the form designer
   - [View my submissions](View-my-submissions) - how to view your own submissions for a form
