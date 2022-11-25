@@ -221,6 +221,46 @@ function validateFacilityInformationTabComponents() {
 
 ![ap19](https://user-images.githubusercontent.com/91633223/204052448-b8a9fe3d-e9c3-4efc-adef-35ad52b8b8e3.png)
 
+**Step 22**: Copy the following code into “Button Custom Logic“ field
+
+```
+const tab = form.getComponent('data');
+form.setPristine(false);
+const index = tab.currentTab;
+const progressStepper = document.querySelectorAll(".healthStepper ol li");
+progressStepper[index].classList.remove('active');
+progressStepper[index].classList.remove('disabled');
+
+if(index===0) {
+  if(!validateFacilityInformationTabComponents()) {
+    progressStepper[index].classList.remove('completed');
+    progressStepper[index].classList.add('errors');
+  } else {
+    progressStepper[index].classList.remove('errors');
+    progressStepper[index].classList.add('completed');
+  }
+}
+
+progressStepper[(index+1)].classList.add('active');
+progressStepper[(index+1)].classList.remove('disabled');
+progressStepper[(index+1)].classList.remove('errors');
+progressStepper[(index+1)].classList.remove('completed');
+tab.setTab((index+1)); 
+
+
+function validateFacilityInformationTabComponents() {
+  const firstNameComp = form.getComponent('firstName');
+  const lastNameComp = form.getComponent('lastName');
+  let isAllFieldValue = true;
+  isAllFieldValue = firstNameComp.checkValidity();
+  isAllFieldValue = lastNameComp.checkValidity();
+  return isAllFieldValue;
+}
+```
+
+![ap20](https://user-images.githubusercontent.com/91633223/204052521-50dcdf1b-ec0c-4f17-82f7-bd524ac7c5b1.png)
+
+
 > **Note**
 
 > Change the ‘data' in the `form.getComponent('data')` to the name you entered in the “label” field of the TabComponent in Step 13
@@ -279,43 +319,5 @@ This Progress Bar is designed to work with any layout component and with the Nex
 
 ![ap2](https://user-images.githubusercontent.com/91633223/204036962-61c5845e-366f-4caf-8a6b-99b8e9f12196.png)
 
-Step 22: Copy the following code into “Button Custom Logic“ field
-
-```
-const tab = form.getComponent('data');
-form.setPristine(false);
-const index = tab.currentTab;
-const progressStepper = document.querySelectorAll(".healthStepper ol li");
-progressStepper[index].classList.remove('active');
-progressStepper[index].classList.remove('disabled');
-
-if(index===0) {
-  if(!validateFacilityInformationTabComponents()) {
-    progressStepper[index].classList.remove('completed');
-    progressStepper[index].classList.add('errors');
-  } else {
-    progressStepper[index].classList.remove('errors');
-    progressStepper[index].classList.add('completed');
-  }
-}
-
-progressStepper[(index+1)].classList.add('active');
-progressStepper[(index+1)].classList.remove('disabled');
-progressStepper[(index+1)].classList.remove('errors');
-progressStepper[(index+1)].classList.remove('completed');
-tab.setTab((index+1)); 
-
-
-function validateFacilityInformationTabComponents() {
-  const firstNameComp = form.getComponent('firstName');
-  const lastNameComp = form.getComponent('lastName');
-  let isAllFieldValue = true;
-  isAllFieldValue = firstNameComp.checkValidity();
-  isAllFieldValue = lastNameComp.checkValidity();
-  return isAllFieldValue;
-}
-```
-
-![ap20](https://user-images.githubusercontent.com/91633223/204052521-50dcdf1b-ec0c-4f17-82f7-bd524ac7c5b1.png)
 
 
