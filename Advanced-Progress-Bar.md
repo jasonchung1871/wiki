@@ -319,5 +319,222 @@ This Progress Bar is designed to work with any layout component and with the Nex
 
 ![ap2](https://user-images.githubusercontent.com/91633223/204036962-61c5845e-366f-4caf-8a6b-99b8e9f12196.png)
 
+**Step 1**: Start by dragging an ‘HTML Component’ into the form builder.
+
+**Step 2**: change the ‘HTML tag’ field from `p` to `div`, and in the ‘Display’ tag enter a unique and custom class name in the ‘CSS Class. In this screenshot, we used `healthStepper`
+
+![a23](https://user-images.githubusercontent.com/91633223/204053468-2ef2e7ed-1bb5-46a3-96fc-c49e5f89cf37.png)
+
+**Step 3**: Copy the following code into the ‘Content’ section
+
+```
+<ol class="c-stepper">
+    <li class="c-stepper__item active">
+        <h3 class="c-stepper__title">Step 1</h3>
+        <p class="c-stepper__desc">Facility Information</p>
+    </li>
+    <li class="c-stepper__item disabled">
+        <h3 class="c-stepper__title">Step 2</h3>
+        <p class="c-stepper__desc">Bed Occupancy</p>
+    </li>
+     <li class="c-stepper__item disabled">
+        <h3 class="c-stepper__title">Step 3</h3>
+        <p class="c-stepper__desc">Staffing Level</p>
+    </li>
+     <li class="c-stepper__item disabled">
+        <h3 class="c-stepper__title">Step 4</h3>
+        <p class="c-stepper__desc">Operating Level</p>
+    </li>
+    <!-- Other steps -->
+</ol>
+```
+
+![a24](https://user-images.githubusercontent.com/91633223/204053515-fa3cd7cb-2b0d-4d61-8d53-198a883923f0.png)
+
+**Step 4**: Click on the ‘Logic’ tab and click on the ‘Add Logic’ button
+
+![a25](https://user-images.githubusercontent.com/91633223/204053555-c9b82ef6-ae57-4076-9e7e-a1dc688d5fdf.png)
+
+**Step 5**: Enter any Logic Name
+
+![a26](https://user-images.githubusercontent.com/91633223/204053608-d68a81b5-5b78-4191-9318-61b20e95bb2d.png)
+
+**Step 6**: In ‘Trigger' section, click on ‘Type’ dropdown menu, and select 'Javascript’
+
+![a27](https://user-images.githubusercontent.com/91633223/204053654-6976e3b1-cbc8-49a3-926e-570b6288e964.png)
+
+**Step 7**: Click “Add Action“ button
+
+![a28](https://user-images.githubusercontent.com/91633223/204053682-29b5643c-9fe3-45f6-be9a-ae8d4cecbb31.png)
+
+**Step 8**: Enter any name in “Action Name“
+
+![a29](https://user-images.githubusercontent.com/91633223/204053714-a573e58f-ddcf-4e15-a79d-db713a183649.png)
+
+**Step 9**: In ‘Trigger' section, click on ‘Type’ dropdown menu, and select 'Javascript’
+
+![a30](https://user-images.githubusercontent.com/91633223/204053739-74b81fcc-7bdf-4846-bed6-144fe7dff321.png)
+
+**Step 10**: Copy the following code into the ‘Text Area’ section
+
+```
+let cssId = 'myCss'; 
+const head  = document.getElementsByTagName('head')[0];
+if (!document.getElementById(cssId))
+{
+    const link  = document.createElement('link');
+    link.id   = cssId;
+    link.rel  = 'stylesheet';
+    link.type = 'text/css';
+    link.href = 'https://timisenco2015.github.io/formulator.github.com/css/chefsCustom.css';
+    link.media = 'all';
+    head.appendChild(link);
+    
+    const script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://cdn.form.io/formiojs/formio.full.min.js';    
+    head.appendChild(script);
+}
+```
+
+![a31](https://user-images.githubusercontent.com/91633223/204053781-b1e0dac4-c89a-4314-b310-c54835f10fad.png)
+
+**Step 11**: Click on ‘Save Logic’ and then ‘Save’ the component.
+
+**Step 12**: Next, add a ‘Tabs’ component from the ‘Advanced Fields’ into the builder
+
+**Step 13**: Drag a button component to the builder, and change the label to “Previous“. Under “Action“, click the dropdown and change select “Custom“
+
+![a32](https://user-images.githubusercontent.com/91633223/204053849-7fa2a0ef-d2f5-471d-a0c2-ee3e12732f5e.png)
+
+**Step 14**: Copy the following code into “Button Custom Logic“ field
+
+```
+const componentList = ["facilityInformationPanel", "bedOccupancyPanel","staffingLevelPanel",
+"operatingLevelPanel"];
+
+const stepperssHiddenValue = form.getComponent('stepperssHiddenValue');
+const index = parseInt(stepperssHiddenValue.getValue());
+
+const progressStepper = document.querySelectorAll(".multiComponentStepper ol li");
+
+progressStepper[index].classList.remove('completed');
+progressStepper[index].classList.remove('errors');
+if(index===0){
+  const currentComponent =form.getComponent(componentList[index]);
+  currentComponent.hidden=false;
+  currentComponent.component.hidden=false;
+  currentComponent.triggerRedraw();
+  progressClassName(index);
+  
+}else if (index>0){
+  const currentComponent =form.getComponent(componentList[index]);
+  currentComponent.hidden=true;
+  currentComponent.component.hidden=true;
+  currentComponent.triggerRedraw();
+  
+  const previousComponent =form.getComponent(componentList[(index-1)]);
+  previousComponent.hidden=false;
+  previousComponent.component.hidden=false;
+  previousComponent.triggerRedraw();
+  progressStepper[index].classList.add('disabled');
+  progressStepper[index].classList.remove('active');
+  progressStepper[index].classList.remove('completed');
+  progressStepper[index].classList.remove('erros');
+  if((index-1)===0){
+    progressClassName((index-1));
+  } else{
+     progressClassName(index);
+  }
+  
+  
+  stepperssHiddenValue.setValue((index-1));
+}
+
+function progressClassName(index){
+  if(index===0) {
+    progressStepper[index].classList.add('active');
+    progressStepper[index].classList.remove('disabled');
+    progressStepper[index].classList.remove('errors');
+    progressStepper[index].classList.remove('completed');
+  } else {
+    progressStepper[(index-1)].classList.add('active');
+    progressStepper[(index-1)].classList.remove('disabled');
+    progressStepper[(index-1)].classList.remove('completed');
+    progressStepper[(index-1)].classList.remove('erros');
+}
+}
+```
+
+![a33](https://user-images.githubusercontent.com/91633223/204053911-33ed0e35-cf6b-4f56-93a9-8ebe52534feb.png)
+
+**Step 15**: Drag a button component to the builder, and change the label to “Next“. Under “Action“, click the dropdown and change select “Custom“
+
+![a34](https://user-images.githubusercontent.com/91633223/204053949-37e7a5da-41e7-4716-b848-c0443b34aabd.png)
+
+**Step 16**: Copy the following code into “Button Custom Logic“ field
+
+```
+const componentList = ["facilityInformationPanel", "bedOccupancyPanel","staffingLevelPanel",
+"operatingLevelPanel"];
+const stepperssHiddenValue = form.getComponent('stepperssHiddenValue');
+const index = parseInt(stepperssHiddenValue.getValue());
+
+const progressStepper = document.querySelectorAll(".multiComponentStepper ol li");
 
 
+if(index<(parseInt(progressStepper.length)-1)){
+  progressStepper[index].classList.remove('active');
+  progressStepper[index].classList.remove('disabled');
+  if(index===0) {
+    if(!validateFacilityInformationTabComponents()) {
+      progressStepper[index].classList.remove('completed');
+      progressStepper[index].classList.add('errors');
+    } else {
+      progressStepper[index].classList.remove('errors');
+      progressStepper[index].classList.add('completed');
+    }
+  } else {
+    progressStepper[index].classList.remove('errors');
+    progressStepper[index].classList.add('completed');
+  }
+
+  const currentComponent =form.getComponent(componentList[(index)]);
+  currentComponent["hidden"] = true;
+  currentComponent.component["hidden"]=true;
+  
+  const nextComponent =form.getComponent(componentList[(index+1)]);
+  nextComponent.hidden=false;
+  nextComponent.component.hidden=false;
+  nextComponent.triggerRedraw();
+  progressStepper[(index+1)].classList.add('active');
+  progressStepper[(index+1)].classList.remove('disabled');
+  stepperssHiddenValue.setValue((index+1))
+} else if(index===(parseInt(progressStepper.length)-1)){
+   progressStepper[index].classList.remove('active');
+  progressStepper[index].classList.remove('errors');
+  progressStepper[index].classList.remove('disabled');
+  progressStepper[index].classList.add('completed');
+}
+
+
+function validateFacilityInformationTabComponents() {
+  const firstNameComp = form.getComponent('firstName1');
+  const lastNameComp = form.getComponent('lastName1');
+  let isAllFieldValue = true;
+  isAllFieldValue = firstNameComp.checkValidity();
+  isAllFieldValue = lastNameComp.checkValidity();
+  return isAllFieldValue;
+}
+```
+
+![a35](https://user-images.githubusercontent.com/91633223/204054012-abb31309-ecf4-4ae5-bd3f-61e622b18f8c.png)
+
+> **Note**
+
+> Replace this array with an array of layout components you want to hide and show using the “Previous“ and “Next“ button.
+
+> ```
+> const componentList = ["facilityInformationPanel", "bedOccupancyPanel","staffingLevelPanel",
+> "operatingLevelPanel"];
+> ```
