@@ -89,16 +89,25 @@ Other Improvements
 * [x] Technical Debt - confirm load and performance capability
 * [x] Remove "manage forms" gear for submitters to avoid unnecessary errors
 * [x] Fix file upload timeout issue
+
+New Features
+
 * [x] A user can filter to view their own submissions
 * [x] Introduces a user-friendly sidebar to enhance the form-creation process
 * [x] Deleted form submissions can now be restored
 * [x] Contact information is now configurable as an environment variable
+
+Bug Fixes 
+
 * [x] Fixes a bug which prevented users from deleting components on a form
 * [x] Team management in BCeID forms no longer retrieves and lists BCeID users
 * [x] Fixes a bug which created two versions of the same form
 * [x] Updated landing page videos
 * [x] Fixes a bug which failed deployment to the PR environment
 * [x] Fixes a bug with the undo/redo feature while tab switching
+
+Documentation
+
 * [x] Updates the disclaimer for public-facing forms
 * [x] Updates the PR checklist for contributions
 
