@@ -89,15 +89,15 @@ Other Improvements
 * [x] Technical Debt - confirm load and performance capability
 * [x] Remove "manage forms" gear for submitters to avoid unnecessary errors
 * [x] Fix file upload timeout issue
+
+
+## vx.x - Future plans....
+
 * [ ] Integrate with COMS for file uploads and to allow access to attachments via the API
 * [ ] Collaborate with CITZ team to transfer ownership to them as a government wide solution
 * [ ] Show notes in exported submissions via API
 * [ ] Improve the Submissions View
 * [ ] Add time to date range parameter for exporting submissions
-
-
-## vx.x - Future plans....
-
 * [ ] Reviewers can download multiple submissions at once and attach a template permanently
 * [ ] Include fields in email notifications
 * [ ] Custom spatial form component
