@@ -61,11 +61,6 @@ if (!document.getElementById(cssId))
     link.href = 'https://timisenco2015.github.io/formulator.github.com/css/chefsCustomCss.css';
     link.media = 'all';
     head.appendChild(link);
-    
-    const script = document.createElement('script');
-    script.type = 'text/javascript';
-    script.src = 'https://cdn.form.io/formiojs/formio.full.min.js';    
-    head.appendChild(script);
 }
 ```
 
