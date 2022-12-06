@@ -18,3 +18,4 @@
   - [Progress Bar](Progress-Bar) - create a simple progress bar to track form progress across tabs
   - [Advanced Progress Bar](Advanced-Progress-Bar) - create an advanced progress bar to navigate between tabs or hidden components
   - [View my submissions](View-my-submissions) - how to view your own submissions for a form
+  - [BC-Address-Component](BC-Address-Component) - using the BC Address Component to autocomplete BC addresses
