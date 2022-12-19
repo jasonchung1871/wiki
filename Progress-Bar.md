@@ -58,7 +58,7 @@ if (!document.getElementById(cssId))
     link.id   = cssId;
     link.rel  = 'stylesheet';
     link.type = 'text/css';
-    link.href = 'https://timisenco2015.github.io/formulator.github.com/css/chefsCustomCss.css';
+    link.href = 'https://bcgov-citz-ccft.github.io/forminators/customprogresssteppercss/chefsCustomCss.css';
     link.media = 'all';
     head.appendChild(link);
 }
