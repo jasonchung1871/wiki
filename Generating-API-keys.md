@@ -1,4 +1,4 @@
-Connect your 3rd party applications with CHEFS to give it access to any of your form's data through our [documented CHEFS API specifications](https://chefs.nrs.gov.bc.ca/app/api/v1/docs).
+Connect your 3rd party applications with CHEFS to give it access to any of your form's data through our [documented CHEFS API specifications](https://submit.digital.gov.bc.ca/app/api/v1/docs).
 
 **On this page:**
 * [How to generate and regenerate an API key](#how-to-generate-and-regenerate-an-api-key)
@@ -19,7 +19,7 @@ Please note to never keep your API keys in an unsecure area.
 
 ## How to make a call to the CHEFS API
 
-You can make calls to our [endpoints](https://chefs.nrs.gov.bc.ca/app/api/v1/docs) by using [Basic Authorization](https://datatracker.ietf.org/doc/html/rfc7617#section-2).
+You can make calls to our [endpoints](https://submit.digital.gov.bc.ca/app/api/v1/docs) by using [Basic Authorization](https://datatracker.ietf.org/doc/html/rfc7617#section-2).
 
 >If you require more information about how to use Basic Authorization, follow this link: https://datatracker.ietf.org/doc/html/rfc7617#section-2
 
@@ -33,6 +33,6 @@ You can find your Form's ID by going to your Form Settings page, and copying it 
 
 ## Note
 
-You can only make requests to the endpoints that have a BasicAuth Authorization type from our [API Specifications](https://chefs.nrs.gov.bc.ca/app/api/v1/docs).
+You can only make requests to the endpoints that have a BasicAuth Authorization type from our [API Specifications](https://submit.digital.gov.bc.ca/app/api/v1/docs).
 
 ![HTML Tag: div, CSS Class: alert alert-primary](images/api_spec_basic_auth.png)
