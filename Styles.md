@@ -45,7 +45,7 @@ You can add an input icon in front of a field by adding an HTML tag into the “
 ## Examples
 
 > Try a working example<br>
-> [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=6ff5ba7d-ed8b-433e-a063-162f56627586)
+> [View example](https://submit.digital.gov.bc.ca/app/form/submit?f=6ff5ba7d-ed8b-433e-a063-162f56627586)
 
 > Download this example file and [import](Import-Export) it into your design<br>
 > [example_styles_schema.json](examples/example_styles_schema.json)
