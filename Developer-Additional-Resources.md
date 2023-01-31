@@ -1,6 +1,9 @@
 # Common Services API Access
 
-This service requires an IDIR account. You can open this link https://getok.nrs.gov.bc.ca/app/requestAccount to request an account after logging in with your IDIR. This will provide you with an API client id and secret to the CHES and CDOGS service.
+This service requires an IDIR account. You can open this link https://api.gov.bc.ca/devportal/api-directory to request an account after logging in as a developer with your IDIR. This will provide you with an API client id and secret to the CHES and CDOGS service.
+
+[CDOGS](https://api.gov.bc.ca/devportal/api-directory/3181?preview=false)
+[CHES](https://api.gov.bc.ca/devportal/api-directory/3182?preview=false)
 
 It’s not necessary to immediately obtain access to CHES and CDOGS. If you wanted to take advantage of the document generator and email service in the future then this is where you would do it.
 
