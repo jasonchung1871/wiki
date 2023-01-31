@@ -41,7 +41,7 @@ Show and hide form fields with [conditional logic](Conditional-Forms).
 
 ## Examples
 > Try a working example<br>
-> [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=4ee726e0-f7a7-49a1-8454-7325d2593a7d)
+> [View example](https://submit.digital.gov.bc.ca/app/form/submit?f=4ee726e0-f7a7-49a1-8454-7325d2593a7d)
 
 > Download this example file and [import](Import-Export) it into your design<br>
 > [example__dynamic_select_lists_schema.json](examples/example__dynamic_select_lists_schema.json)
