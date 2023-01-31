@@ -39,7 +39,7 @@ If you need to know the field name for a field you wish to base a calculated val
 
 ## Examples
 > Try a working example<br>
-> [View example](https://chefs.nrs.gov.bc.ca/app/form/submit?f=858a4aba-7e7b-4019-80c1-78a414ee5129)
+> [View example](https://submit.digital.gov.bc.ca/app/form/submit?f=858a4aba-7e7b-4019-80c1-78a414ee5129)
 
 > Download this example file and [import](Importing-and-exporting-form-designs) it into your design<br>
 > [example_calculated_values_schema.json](examples/example__calculated_values_schema.json)
