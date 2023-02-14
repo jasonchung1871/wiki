@@ -1,9 +1,10 @@
 **Note:** Nested grids (Components) such as Edit Grid, Data Grid, Container, etc., in your form will be converted to rows of data in submissions. 
 
 Template 1: When exporting your submission to CSV and you want these rows to be extracted (flattened) into multi rows in CSV, use this template. This template will backfill empty spaces in each row. 
-[Template 1](https://vimeo.com/798754310)
+[template1.webm](https://user-images.githubusercontent.com/14250649/218782456-bd1d023e-58a3-44c4-ac68-0341966a3f54.webm)
 
 Template 2: When exporting your submission to CSV and you want these rows to be extracted (flattened) into multi rows in CSV without filling the empty columns, use this template.
+[template 2.webm](https://user-images.githubusercontent.com/14250649/218782818-06d50c33-c5f2-4fc8-85b5-c6f0adc14f7e.webm)
 
 Template 3: When exporting your submission to CSV and you want a single row for each submission, use this template.
 
