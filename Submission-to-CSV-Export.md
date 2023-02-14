@@ -7,6 +7,7 @@ Template 2: When exporting your submission to CSV and you want these rows to be 
 [template 2.webm](https://user-images.githubusercontent.com/14250649/218782818-06d50c33-c5f2-4fc8-85b5-c6f0adc14f7e.webm)
 
 Template 3: When exporting your submission to CSV and you want a single row for each submission, use this template.
+[Template3.webm](https://user-images.githubusercontent.com/14250649/218786822-eddc8d47-d19f-43bd-b6fe-a2f95e212065.webm)
 
 **Note:**  If you have any of these components: Data Map, Address, BCGeoAddress, and Tree, do not use template 1-3
 
